@@ -1,5 +1,3 @@
-https://pbs.twimg.com/media/G0AGQ25bkAA3tsv.jpg
-https://pbs.twimg.com/media/G0AGQ9iaAAAl-zP.jpg
 https://pbs.twimg.com/media/G0PCqVmbAAAiPGw.jpg
 https://pbs.twimg.com/media/G0ifLV-acAATjRS.jpg
 https://pbs.twimg.com/media/G0ifLV5aIAAFNIV.jpg
@@ -130,3 +128,5 @@ https://pbs.twimg.com/media/HLiluF9WUAA1e1k.jpg
 https://pbs.twimg.com/media/HMB2eg8bgAACR7L.jpg
 https://pbs.twimg.com/media/HMB2eiBbEAAzKOW.jpg
 https://pbs.twimg.com/media/HMNt3Q5bYAAVapH.jpg
+https://pbs.twimg.com/media/G5GDaMDbIAAqTVq.jpg
+https://pbs.twimg.com/media/HELTgFQagAEheO8.jpg
