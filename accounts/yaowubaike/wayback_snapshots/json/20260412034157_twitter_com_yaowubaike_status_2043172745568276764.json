@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2042649060667199507",
+    "created_at": "2026-04-12T03:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043172745568276764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913731011214802944",
+          "start": 0,
+          "username": "sfc701559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043172745568276764",
+    "in_reply_to_user_id": "1913731011214802944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042765673462693984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfc701559 没有版权意识你狗叫什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2042649060667199507",
+        "created_at": "2026-04-12T03:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043172745568276764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913731011214802944",
+              "start": 0,
+              "username": "sfc701559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043172745568276764",
+        "in_reply_to_user_id": "1913731011214802944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042765673462693984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfc701559 没有版权意识你狗叫什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913731011214802944",
+        "conversation_id": "2042649060667199507",
+        "created_at": "2026-04-11T00:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042765673462693984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042765673462693984",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13500,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042649060667199507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 一个公务员普遍不认为使用盗版Windows系统有任何不妥的国家，能有什么版权意识。你在B站上看的视频有很多UP主用的音乐都没有获得商业授权属于侵权行为，但有人在意吗？前者侵权者是权力不受约束的国家机器，后者追究法律责任成本比高完全不值得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3335,
+          "following_count": 41,
+          "like_count": 529,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T23:06:52.000Z",
+        "description": "🤗🤗🤗🤗🤗",
+        "id": "1913731011214802944",
+        "location": "天安门广场",
+        "name": "csf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913736465500233728/kw_TiO2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 206,
+          "like_count": 8591,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 1727
+        },
+        "username": "sfc701559",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1986364315700764795",
+    "created_at": "2025-11-06T21:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T22:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986540052751810817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1919314129476866048",
+          "start": 0,
+          "username": "TaoyangX63183"
+        },
+        {
+          "end": 28,
+          "id": "1963867793776070656",
+          "start": 15,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986540052751810817",
+    "in_reply_to_user_id": "1919314129476866048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986537852105347301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoyangX63183 @drug_artist1 不知道你在骂什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1986364315700764795",
+        "created_at": "2025-11-06T21:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T22:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986540052751810817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1919314129476866048",
+              "start": 0,
+              "username": "TaoyangX63183"
+            },
+            {
+              "end": 28,
+              "id": "1963867793776070656",
+              "start": 15,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986540052751810817",
+        "in_reply_to_user_id": "1919314129476866048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986537852105347301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoyangX63183 @drug_artist1 不知道你在骂什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919314129476866048",
+        "conversation_id": "1986364315700764795",
+        "created_at": "2025-11-06T20:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T21:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986537852105347301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986537852105347301",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986537303989493887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 你以后送我外卖别给我超时了我的准时宝你是知道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱:https://t.co/LsyPFMc5Pb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 104,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 81,
+                "url": "https://t.co/LsyPFMc5Pb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 31,
+          "like_count": 249,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T08:52:11.000Z",
+        "description": "",
+        "id": "1919314129476866048",
+        "name": "VerGissMeinncht",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933576304131256324/MTPRR-oY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "TaoyangX63183",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质直接私信我或联系TG: https://t.co/epYRPhDhLb ｜提问箱:https://t.co/ez10SQIb3b｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 70,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 47,
+                "url": "https://t.co/epYRPhDhLb"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 99,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 76,
+                "url": "https://t.co/ez10SQIb3b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRToqxO"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1985641950721294743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 88,
+          "like_count": 509,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/N4ZvRToqxO",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

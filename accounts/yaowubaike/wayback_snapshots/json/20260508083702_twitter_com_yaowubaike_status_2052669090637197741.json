@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052669087894102016"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "2052669090637197741",
+    "created_at": "2026-05-08T08:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052669090637197741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/adpPxTeWSZ",
+          "end": 86,
+          "expanded_url": "https://x.com/yaowubaike/status/2052669090637197741/photo/1",
+          "media_key": "3_2052669087894102016",
+          "start": 63,
+          "url": "https://t.co/adpPxTeWSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052669090637197741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "商家也就利用这个风口割不懂药理的oder们的韭菜了 用没有中枢神经作用的普通止咳药冒充愈美的来了 文案纯奔着误导人去的，，， https://t.co/adpPxTeWSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052669087894102016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyLqPFaYAATx2k.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052669087894102016"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2052669090637197741",
+        "created_at": "2026-05-08T08:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052669090637197741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/adpPxTeWSZ",
+              "end": 86,
+              "expanded_url": "https://x.com/yaowubaike/status/2052669090637197741/photo/1",
+              "media_key": "3_2052669087894102016",
+              "start": 63,
+              "url": "https://t.co/adpPxTeWSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052669090637197741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "商家也就利用这个风口割不懂药理的oder们的韭菜了 用没有中枢神经作用的普通止咳药冒充愈美的来了 文案纯奔着误导人去的，，， https://t.co/adpPxTeWSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4007,
+          "following_count": 36,
+          "like_count": 599,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

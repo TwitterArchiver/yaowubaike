@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2023071867867922850",
+    "created_at": "2026-02-15T16:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023071867867922850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rcwikixyz/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/rcwikixyz/status/2022944625519136881",
+          "start": 19,
+          "url": "https://t.co/v17R627aO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023071867867922850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022944625519136881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人接管了他的账号\n\n他很快就会出现 https://t.co/v17R627aO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2022944618086842369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLxaYFawAEqn1W.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2023071867867922850",
+        "created_at": "2026-02-15T16:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023071867867922850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rcwikixyz/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/rcwikixyz/status/2022944625519136881",
+              "start": 19,
+              "url": "https://t.co/v17R627aO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023071867867922850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022944625519136881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人接管了他的账号\n\n他很快就会出现 https://t.co/v17R627aO7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022944618086842369"
+          ]
+        },
+        "author_id": "1826984800390889472",
+        "conversation_id": "2022944625519136881",
+        "created_at": "2026-02-15T08:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022944625519136881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zagnTkRNR9",
+              "end": 26,
+              "expanded_url": "https://x.com/rcwikixyz/status/2022944625519136881/photo/1",
+              "media_key": "3_2022944618086842369",
+              "start": 3,
+              "url": "https://t.co/zagnTkRNR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022944625519136881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2094,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去 https://t.co/zagnTkRNR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 代理wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱:https://t.co/LsyPFMcDEJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 111,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 88,
+                "url": "https://t.co/LsyPFMcDEJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 29,
+          "like_count": 398,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "多人账户 ｜ 提问 https://t.co/whvJOUTUxI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xooxosolvvme",
+                "end": 33,
+                "expanded_url": "https://ngl.link/xooxosolvvme",
+                "start": 10,
+                "url": "https://t.co/whvJOUTUxI"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "天下社",
+        "name": "全宇宙最悲伤欲绝的人",
+        "pinned_tweet_id": "1990339095210652034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998043058685071360/8zFvVXHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2900,
+          "following_count": 173,
+          "like_count": 935,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 376
+        },
+        "username": "rcwikixyz",
+        "verified": false
+      }
+    ]
+  }
+}

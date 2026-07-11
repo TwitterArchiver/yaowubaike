@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1968148133952848048",
+    "created_at": "2025-09-17T03:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T04:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968148133952848048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968148133952848048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于药物百科的介绍\n“药物百科Mediwiki”是一个非盈利的网站，目前由wiki主副wiki主和编辑们共16人组成，wiki接受免费的用药咨询，接受报告，提供各种药物相关的知识。\n“药物百科RC”是盈利组织，组成人员与wiki不同，老板也不是同一个人，团队售卖正规实验室制造的精品神药，各类平衡好毒性与效果的RC。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1968148133952848048",
+        "created_at": "2025-09-17T03:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968148133952848048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968148133952848048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于药物百科的介绍\n“药物百科Mediwiki”是一个非盈利的网站，目前由wiki主副wiki主和编辑们共16人组成，wiki接受免费的用药咨询，接受报告，提供各种药物相关的知识。\n“药物百科RC”是盈利组织，组成人员与wiki不同，老板也不是同一个人，团队售卖正规实验室制造的精品神药，各类平衡好毒性与效果的RC。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主@drug_artist1 及多位编辑共同运营 有报告欢迎私信投稿 | 购买商品请私信此号或加入tg群组 | wiki:https://t.co/Ifss91B6xz | 商店:https://t.co/ncmugUVuaK | tg:https://t.co/k0RnSIiYz9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "drug_artist1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 101,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 78,
+                "url": "https://t.co/Ifss91B6xz"
+              },
+              {
+                "display_url": "yaowubaikerc.ca",
+                "end": 130,
+                "expanded_url": "https://yaowubaikerc.ca",
+                "start": 107,
+                "url": "https://t.co/ncmugUVuaK"
+              },
+              {
+                "display_url": "t.me/yaowubaikeca",
+                "end": 159,
+                "expanded_url": "https://t.me/yaowubaikeca",
+                "start": 136,
+                "url": "https://t.co/k0RnSIiYz9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1967080081333121448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 25,
+          "like_count": 55,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

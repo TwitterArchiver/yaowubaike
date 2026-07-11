@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1987928459960873362",
+    "created_at": "2026-04-06T01:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040969059223949436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619358926931378177",
+          "start": 0,
+          "username": "sjs1815749874"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040969059223949436",
+    "in_reply_to_user_id": "1619358926931378177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040967626604822973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjs1815749874 可能肝肾损伤了 尿液气泡是蛋白尿，肾滤过功能受损了，水肿是肝或肾问题导致体液潴留，尽快去任何门诊做检查，不用说任何用药问题肾功能、尿常规、肝功能、电解质，然后对症治疗，复方甘草片先别吃了，咨询发一次就行，我都会回复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1987928459960873362",
+        "created_at": "2026-04-06T01:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040969059223949436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619358926931378177",
+              "start": 0,
+              "username": "sjs1815749874"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040969059223949436",
+        "in_reply_to_user_id": "1619358926931378177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040967626604822973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjs1815749874 可能肝肾损伤了 尿液气泡是蛋白尿，肾滤过功能受损了，水肿是肝或肾问题导致体液潴留，尽快去任何门诊做检查，不用说任何用药问题肾功能、尿常规、肝功能、电解质，然后对症治疗，复方甘草片先别吃了，咨询发一次就行，我都会回复"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619358926931378177",
+        "conversation_id": "1987928459960873362",
+        "created_at": "2026-04-06T01:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040967626604822973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040967626604822973",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987928459960873362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 你好我想咨询一下阿片类的问题 我是得一直吃甘草片副作用太大了 而且下去的也快 肝肾拖 水肿 上厕所有泡沫 有没有什么办法可以解决这些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 40,
+          "like_count": 477,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T15:37:21.000Z",
+        "description": "想购买原味丝袜 情趣内衣内裤的联系我可验证",
+        "id": "1619358926931378177",
+        "location": "Santa Clara, CA",
+        "name": "cc小惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984549565022842880/fK376FEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "sjs1815749874",
+        "verified": false
+      }
+    ]
+  }
+}

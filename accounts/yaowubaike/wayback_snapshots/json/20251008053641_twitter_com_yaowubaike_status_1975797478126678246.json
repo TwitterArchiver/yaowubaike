@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1975732096351297934",
+    "created_at": "2025-10-08T05:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T06:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975797478126678246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707911374377213952",
+          "start": 0,
+          "username": "Rainyufanf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975797478126678246",
+    "in_reply_to_user_id": "1707911374377213952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975795268596690977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainyufanf 牢风都没说啥😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1975732096351297934",
+        "created_at": "2025-10-08T05:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975797478126678246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707911374377213952",
+              "start": 0,
+              "username": "Rainyufanf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975797478126678246",
+        "in_reply_to_user_id": "1707911374377213952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975795268596690977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainyufanf 牢风都没说啥😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707911374377213952",
+        "conversation_id": "1975732096351297934",
+        "created_at": "2025-10-08T05:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975795268596690977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975795268596690977",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975732096351297934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 别操作了，再炒作牢风复活来找你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 24,
+          "like_count": 86,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T00:13:26.000Z",
+        "description": "外烟，电子烟，免费收代理赚钱找我；键盘代改代组，德国进口亚克力水道板定制；原神，崩铁，三角洲，鸣潮代肝\n自用VPN：https://t.co/fqrZNUODbS\n邀请码51a4f3351c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "congyu.moe/auth/register?…",
+                "end": 81,
+                "expanded_url": "https://congyu.moe/auth/register?invite=51a4f3351c",
+                "start": 58,
+                "url": "https://t.co/fqrZNUODbS"
+              }
+            ]
+          }
+        },
+        "id": "1707911374377213952",
+        "location": "你心里",
+        "name": "雨凡🏳‍⚧🍥",
+        "pinned_tweet_id": "1911489021806805410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327034537394176/2ld1xMwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 199,
+          "like_count": 4426,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 920
+        },
+        "username": "Rainyufanf",
+        "verified": false
+      }
+    ]
+  }
+}

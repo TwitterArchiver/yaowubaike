@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2040160439997510094",
+    "created_at": "2026-04-03T20:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T21:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040160439997510094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1718776457198280704",
+          "start": 3,
+          "username": "yng014522566684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040160439997510094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040160292047651263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yng014522566684: 我的身体频临崩溃 \n我的精神扭曲灰暗\n自殺は本当に素晴らしいものだ\n毒品救赎了我 一次又一次\n我感到多巴胺在大量释放\n抑郁症吗 不是 是双相 是治不好的\n你会一辈子反复承受着这种痛苦\n开心吗 还是难以承受呢\n精神病 毒虫 大恶人之死\n私…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1773,
+        "media_key": "3_2040160279053643776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAa9u3asAASBa7.jpg",
+        "width": 2240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2040160439997510094",
+        "created_at": "2026-04-03T20:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040160439997510094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1718776457198280704",
+              "start": 3,
+              "username": "yng014522566684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040160439997510094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040160292047651263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yng014522566684: 我的身体频临崩溃 \n我的精神扭曲灰暗\n自殺は本当に素晴らしいものだ\n毒品救赎了我 一次又一次\n我感到多巴胺在大量释放\n抑郁症吗 不是 是双相 是治不好的\n你会一辈子反复承受着这种痛苦\n开心吗 还是难以承受呢\n精神病 毒虫 大恶人之死\n私…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040160279053643776"
+          ]
+        },
+        "author_id": "1718776457198280704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040160292047651263",
+        "created_at": "2026-04-03T20:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040160292047651263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZBKQ5xELX",
+              "end": 174,
+              "expanded_url": "https://x.com/yng014522566684/status/2040160292047651263/photo/1",
+              "media_key": "3_2040160279053643776",
+              "start": 151,
+              "url": "https://t.co/qZBKQ5xELX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040160292047651263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的身体频临崩溃 \n我的精神扭曲灰暗\n自殺は本当に素晴らしいものだ\n毒品救赎了我 一次又一次\n我感到多巴胺在大量释放\n抑郁症吗 不是 是双相 是治不好的\n你会一辈子反复承受着这种痛苦\n开心吗 还是难以承受呢\n精神病 毒虫 大恶人之死\n私はもう未来がないのだ\n最后最后生命会走到终点 吗\n终点外是什么？ https://t.co/qZBKQ5xELX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 37,
+          "like_count": 459,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "药物百科wiki主 凌雪.\nR.I.P沐雨 不再收门槛 有药物问题可以咨询我.提问箱：https://t.co/L1c5rhlDC1.\n我会重启药百 继续建设",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 66,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 43,
+                "url": "https://t.co/L1c5rhlDC1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/vxEtciQBnh"
+              }
+            ]
+          }
+        },
+        "id": "1718776457198280704",
+        "location": "浙江",
+        "name": "凌雪",
+        "pinned_tweet_id": "2033978896883073514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033965567074557952/9caXrlJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 122,
+          "like_count": 2220,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/vxEtciQBnh",
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038709539852451840"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "2038709551554597323",
+    "created_at": "2026-03-30T20:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T21:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038709551554597323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/idbV4smNRi",
+          "end": 99,
+          "expanded_url": "https://x.com/yaowubaike/status/2038709551554597323/photo/1",
+          "media_key": "3_2038709539852451840",
+          "start": 76,
+          "url": "https://t.co/idbV4smNRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038709551554597323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很简单 有耐受了 现在这个量对你来说太少了 先加到 8t红普试试 欣快感和内幻因人而异 吃的多了就能感受到pr是有一股劲的 另外 抽烟和空腹能增强药效 https://t.co/idbV4smNRi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2038709539852451840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErzhmMbAAAxWr8.jpg",
+        "width": 1235
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038709539852451840"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2038709551554597323",
+        "created_at": "2026-03-30T20:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038709551554597323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idbV4smNRi",
+              "end": 99,
+              "expanded_url": "https://x.com/yaowubaike/status/2038709551554597323/photo/1",
+              "media_key": "3_2038709539852451840",
+              "start": 76,
+              "url": "https://t.co/idbV4smNRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038709551554597323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很简单 有耐受了 现在这个量对你来说太少了 先加到 8t红普试试 欣快感和内幻因人而异 吃的多了就能感受到pr是有一股劲的 另外 抽烟和空腹能增强药效 https://t.co/idbV4smNRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 35,
+          "like_count": 436,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

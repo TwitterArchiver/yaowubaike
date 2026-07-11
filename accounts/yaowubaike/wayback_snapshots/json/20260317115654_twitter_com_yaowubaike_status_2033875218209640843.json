@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2033875218209640843",
+    "created_at": "2026-03-17T11:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033875218209640843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manglesuki/sta…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/manglesuki/status/1996632430036635741",
+          "start": 108,
+          "url": "https://t.co/fbCnw6tmis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033875218209640843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996632430036635741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讣告续集：\n药物百科前wiki主 药圈重要人物 沐雨\n2025.11月25日因吸入性肺炎去世\n已安葬于山东省枣庄市峄城区莲花山公墓\n他的样子还一直浮现在我们眼前\n凌雪接管了他的一些账号\n沉痛哀悼\n\nby.凌雪、玄鸮 https://t.co/fbCnw6tmis"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2033875218209640843",
+        "created_at": "2026-03-17T11:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033875218209640843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manglesuki/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/manglesuki/status/1996632430036635741",
+              "start": 108,
+              "url": "https://t.co/fbCnw6tmis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033875218209640843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讣告续集：\n药物百科前wiki主 药圈重要人物 沐雨\n2025.11月25日因吸入性肺炎去世\n已安葬于山东省枣庄市峄城区莲花山公墓\n他的样子还一直浮现在我们眼前\n凌雪接管了他的一些账号\n沉痛哀悼\n\nby.凌雪、玄鸮 https://t.co/fbCnw6tmis"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-04T17:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996632430036635741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996632430036635741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 310489,
+          "like_count": 382,
+          "quote_count": 52,
+          "reply_count": 112,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：药物百科wiki主沐雨因严重的肺部感染，于2025.11.25不幸病逝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@ |副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 32,
+          "like_count": 406,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 85,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1981557720609427489",
+    "created_at": "2025-10-24T03:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T04:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981557720609427489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963867793776070656",
+          "start": 3,
+          "username": "drug_artist1"
+        },
+        {
+          "end": 47,
+          "id": "1886054681635704832",
+          "start": 36,
+          "username": "Manglesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981557720609427489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981557084912238646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist1: 药物百科新副wiki主选出来了:小鸮@Manglesuki\n庆祝一下药物百科继续壮大\n与副wiki主一人一颗月尘享受一下\n副wiki主的职责是更新更多文章，运营推特账号为大家继续科普，欢迎大家关注副wiki主小鸮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1981557720609427489",
+        "created_at": "2025-10-24T03:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T04:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981557720609427489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963867793776070656",
+              "start": 3,
+              "username": "drug_artist1"
+            },
+            {
+              "end": 47,
+              "id": "1886054681635704832",
+              "start": 36,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981557720609427489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981557084912238646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist1: 药物百科新副wiki主选出来了:小鸮@Manglesuki\n庆祝一下药物百科继续壮大\n与副wiki主一人一颗月尘享受一下\n副wiki主的职责是更新更多文章，运营推特账号为大家继续科普，欢迎大家关注副wiki主小鸮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1981557084912238646",
+        "created_at": "2025-10-24T03:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T04:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981557084912238646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1886054681635704832",
+              "start": 18,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981557084912238646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科新副wiki主选出来了:小鸮@Manglesuki\n庆祝一下药物百科继续壮大\n与副wiki主一人一颗月尘享受一下\n副wiki主的职责是更新更多文章，运营推特账号为大家继续科普，欢迎大家关注副wiki主小鸮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 29,
+          "like_count": 169,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主 投稿请私信我 提问箱:https://t.co/ez10SQHDdD 愿每一位药物滥用者都能脱离深渊 提供药物咨询 im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 44,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 21,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1980936658594996695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 53,
+          "like_count": 288,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科副wiki主｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 59,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

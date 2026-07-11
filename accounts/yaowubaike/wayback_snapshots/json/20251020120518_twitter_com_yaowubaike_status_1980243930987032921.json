@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1979879312477339683",
+    "created_at": "2025-10-20T12:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T13:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980243930987032921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 28,
+          "id": "1823987651655127040",
+          "start": 17,
+          "username": "ookoukibob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980243930987032921",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980034232954343627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 @ookoukibob 谁教的谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1979879312477339683",
+        "created_at": "2025-10-20T12:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980243930987032921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 28,
+              "id": "1823987651655127040",
+              "start": 17,
+              "username": "ookoukibob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980243930987032921",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980034232954343627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @ookoukibob 谁教的谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1979879312477339683",
+        "created_at": "2025-10-19T22:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980034232954343627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            },
+            {
+              "end": 23,
+              "id": "1823987651655127040",
+              "start": 12,
+              "username": "ookoukibob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980034232954343627",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979930425884627039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike @ookoukibob 你甚至没学明白你三崎主人教的抑制剂…哎…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 31,
+          "like_count": 135,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 185,
+          "like_count": 8686,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1930
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T07:38:48.000Z",
+        "description": "前小镇做题家，现休学日本短居挂壁中。比较菜的数竞生，还算及格的乐手，怪猎太刀🦐，专注硬件的Tinkerer，不od的Biohacker。各方面的温和骑墙派。在给wiki接药物报告，投稿直接私信❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ookoukibob92491",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ookoukibob92491",
+                "start": 0,
+                "url": "https://t.co/1RB1UGdjTR"
+              }
+            ]
+          }
+        },
+        "id": "1823987651655127040",
+        "location": "地球",
+        "name": "OokoukiBob",
+        "pinned_tweet_id": "1971912857026547937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823987821943934976/b_FqfB7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 196,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/1RB1UGdjTR",
+        "username": "ookoukibob",
+        "verified": false
+      }
+    ]
+  }
+}

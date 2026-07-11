@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1979879312477339683",
+    "created_at": "2025-10-19T19:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T20:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979998822953808110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748235492414607360",
+          "start": 0,
+          "username": "SoYouRmyCurse"
+        },
+        {
+          "end": 31,
+          "id": "1917988927409143812",
+          "start": 15,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 44,
+          "id": "1726969617850286080",
+          "start": 32,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979998822953808110",
+    "in_reply_to_user_id": "1748235492414607360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979998227136192703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoYouRmyCurse @OverSpeed_Wiki2 @NashiMoe233 看我不顺眼的人多了去了，直接上来攻击的还真没见过几个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1979879312477339683",
+        "created_at": "2025-10-19T19:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T20:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979998822953808110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748235492414607360",
+              "start": 0,
+              "username": "SoYouRmyCurse"
+            },
+            {
+              "end": 31,
+              "id": "1917988927409143812",
+              "start": 15,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 44,
+              "id": "1726969617850286080",
+              "start": 32,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979998822953808110",
+        "in_reply_to_user_id": "1748235492414607360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979998227136192703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoYouRmyCurse @OverSpeed_Wiki2 @NashiMoe233 看我不顺眼的人多了去了，直接上来攻击的还真没见过几个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748235492414607360",
+        "conversation_id": "1979879312477339683",
+        "created_at": "2025-10-19T19:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T20:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979998227136192703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            },
+            {
+              "end": 28,
+              "id": "1917988927409143812",
+              "start": 12,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 41,
+              "id": "1726969617850286080",
+              "start": 29,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979998227136192703",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979997722318082371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike @OverSpeed_Wiki2 @NashiMoe233 你觉得几个人看你顺眼宝贝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 30,
+          "like_count": 136,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T06:47:13.000Z",
+        "description": "备用号 除了生活什么都发丨non-binary丨osdd丨drugtwt丨冬だった醒めないで夢に見た桃源郷はもうそこにある",
+        "id": "1748235492414607360",
+        "location": "我一直在你身边哦",
+        "name": "冬がすぎたら",
+        "pinned_tweet_id": "1970917443691495521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969266786937032704/TiQGoj3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 39,
+          "like_count": 3805,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 272
+        },
+        "username": "SoYouRmyCurse",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 184,
+          "like_count": 8494,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1912
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨ip杭州可以找我喝酒丨不回答药物滥用相关问题",
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978850989756014592/OU24UMSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 195,
+          "like_count": 20302,
+          "listed_count": 4,
+          "media_count": 582,
+          "tweet_count": 11622
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

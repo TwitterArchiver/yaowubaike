@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2040677018661171364",
+    "created_at": "2026-04-05T07:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040690249177894950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2036453730456051715",
+          "start": 0,
+          "username": "fayoubaike004"
+        },
+        {
+          "end": 29,
+          "id": "1920438574715154432",
+          "start": 15,
+          "username": "fayoubaike002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040690249177894950",
+    "in_reply_to_user_id": "2036453730456051715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040677018661171364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike004 @fayoubaike002 谁说没有完美杀人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2040677018661171364",
+        "created_at": "2026-04-05T07:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040690249177894950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2036453730456051715",
+              "start": 0,
+              "username": "fayoubaike004"
+            },
+            {
+              "end": 29,
+              "id": "1920438574715154432",
+              "start": 15,
+              "username": "fayoubaike002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040690249177894950",
+        "in_reply_to_user_id": "2036453730456051715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040677018661171364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike004 @fayoubaike002 谁说没有完美杀人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036453730456051715",
+        "conversation_id": "2040677018661171364",
+        "created_at": "2026-04-05T06:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040677018661171364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040677018661171364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "敢o80t苯海索找我领100块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 39,
+          "like_count": 470,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T14:43:23.000Z",
+        "description": "",
+        "id": "2036453730456051715",
+        "name": "法友百科",
+        "pinned_tweet_id": "2040351680102047991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040351159547023361/-jNtqfor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "fayoubaike004",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 180,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 59
+        },
+        "username": "fayoubaike002",
+        "verified": false
+      }
+    ]
+  }
+}

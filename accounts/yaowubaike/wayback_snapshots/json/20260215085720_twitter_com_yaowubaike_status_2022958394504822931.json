@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2022958394504822931",
+    "created_at": "2026-02-15T08:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T09:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022958394504822931"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022958394504822931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "oder年夜饭八道菜：\n\n1.凉拌愈美片\n2.清蒸普瑞巴林\n3.红烧白兔\n4.爆炒美金刚\n5.白切1161\n6.香烤复方甘草片\n7.炖金刚烷胺\n8.冰镇司来苯乙胺\n\nby.玄鸮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2022958394504822931",
+        "created_at": "2026-02-15T08:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022958394504822931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022958394504822931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder年夜饭八道菜：\n\n1.凉拌愈美片\n2.清蒸普瑞巴林\n3.红烧白兔\n4.爆炒美金刚\n5.白切1161\n6.香烤复方甘草片\n7.炖金刚烷胺\n8.冰镇司来苯乙胺\n\nby.玄鸮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 代理wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱:https://t.co/LsyPFMcDEJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 111,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 88,
+                "url": "https://t.co/LsyPFMcDEJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 27,
+          "like_count": 398,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

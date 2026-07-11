@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1969674751435293050",
+    "created_at": "2025-09-21T08:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T09:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969674751435293050"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "药物百科RC"
+        }
+      ],
+      "urls": [
+        {
+          "description": "✨ 产品优势： 独家非列管过检测解离剂，不包含在2025.7.1列管目录中，包过尿检发检✅隐私发货，风险下降至最低。 ✅ 鼻吸：二十分钟起效 ✅ 口服：一小时起效 ✅ 峰值：三小时血药浓度达到最高 ✅ 结束：六小时基本结束 ✅ 余晖：持续一天的温和效果 ⭐️ 鼻吸(推荐) 口服 卷烟 烫吸 建议间隔时间： 三至七天 规格 价格 每粒均价一粒装 30U 30U 二粒装 56U 28U (省2...",
+          "display_url": "yaowubaikerc.ca/store/moon_dust",
+          "end": 128,
+          "expanded_url": "http://yaowubaikerc.ca/store/moon_dust",
+          "start": 105,
+          "status": 200,
+          "title": "⭐️月尘——超爽副作用更小的完美解离剂⭐️",
+          "unwound_url": "https://yaowubaikerc.ca/store/moon_dust",
+          "url": "https://t.co/YsSMa6cqNw"
+        },
+        {
+          "description": "You can view and join @yaowubaikeca right away.",
+          "display_url": "t.me/yaowubaikeca",
+          "end": 169,
+          "expanded_url": "http://t.me/yaowubaikeca",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 146,
+          "status": 200,
+          "title": "药物百科官方交流群",
+          "unwound_url": "https://t.me/yaowubaikeca",
+          "url": "https://t.co/qC12L9vXz7"
+        },
+        {
+          "display_url": "x.com/yaowubaike/sta…",
+          "end": 193,
+          "expanded_url": "https://twitter.com/yaowubaike/status/1967080081333121448",
+          "start": 170,
+          "url": "https://t.co/j1U4hGuEny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969674751435293050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967080081333121448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#药物百科RC\n❗客服变更通知 推特下单私信官推，tg下单进入群组联系@CICADA600@drug_artist❗\n❗已下单的客户后续请联系以上客服❗\n\n「月尘LunaDust🌙」持续发售中😋\n\n详细介绍见：https://t.co/YsSMa6cqNw\n\n购买渠道：药物百科官推/tg群组https://t.co/qC12L9vXz7 https://t.co/j1U4hGuEny"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1969674751435293050",
+        "created_at": "2025-09-21T08:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T09:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969674751435293050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "药物百科RC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "✨ 产品优势： 独家非列管过检测解离剂，不包含在2025.7.1列管目录中，包过尿检发检✅隐私发货，风险下降至最低。 ✅ 鼻吸：二十分钟起效 ✅ 口服：一小时起效 ✅ 峰值：三小时血药浓度达到最高 ✅ 结束：六小时基本结束 ✅ 余晖：持续一天的温和效果 ⭐️ 鼻吸(推荐) 口服 卷烟 烫吸 建议间隔时间： 三至七天 规格 价格 每粒均价一粒装 30U 30U 二粒装 56U 28U (省2...",
+              "display_url": "yaowubaikerc.ca/store/moon_dust",
+              "end": 128,
+              "expanded_url": "http://yaowubaikerc.ca/store/moon_dust",
+              "start": 105,
+              "status": 200,
+              "title": "⭐️月尘——超爽副作用更小的完美解离剂⭐️",
+              "unwound_url": "https://yaowubaikerc.ca/store/moon_dust",
+              "url": "https://t.co/YsSMa6cqNw"
+            },
+            {
+              "description": "You can view and join @yaowubaikeca right away.",
+              "display_url": "t.me/yaowubaikeca",
+              "end": 169,
+              "expanded_url": "http://t.me/yaowubaikeca",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 146,
+              "status": 200,
+              "title": "药物百科官方交流群",
+              "unwound_url": "https://t.me/yaowubaikeca",
+              "url": "https://t.co/qC12L9vXz7"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/yaowubaike/status/1967080081333121448",
+              "start": 170,
+              "url": "https://t.co/j1U4hGuEny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969674751435293050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967080081333121448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#药物百科RC\n❗客服变更通知 推特下单私信官推，tg下单进入群组联系@CICADA600@drug_artist❗\n❗已下单的客户后续请联系以上客服❗\n\n「月尘LunaDust🌙」持续发售中😋\n\n详细介绍见：https://t.co/YsSMa6cqNw\n\n购买渠道：药物百科官推/tg群组https://t.co/qC12L9vXz7 https://t.co/j1U4hGuEny"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1967080081333121448",
+        "created_at": "2025-09-14T04:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967080081333121448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "药物百科RC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 122,
+              "id": "1866458229527764992",
+              "start": 109,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 138,
+              "id": "1833270666629611520",
+              "start": 123,
+              "username": "Artemis121xuan"
+            },
+            {
+              "end": 149,
+              "id": "1339446920511569920",
+              "start": 139,
+              "username": "shudesu00"
+            },
+            {
+              "end": 164,
+              "id": "1837114188046684161",
+              "start": 150,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 179,
+              "id": "1390652924481527810",
+              "start": 165,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "description": "✨ 产品优势： 独家非列管过检测解离剂，不包含在2025.7.1列管目录中，包过尿检发检✅隐私发货，风险下降至最低。 ✅ 鼻吸：二十分钟起效 ✅ 口服：一小时起效 ✅ 峰值：三小时血药浓度达到最高 ✅ 结束：六小时基本结束 ✅ 余晖：持续一天的温和效果 ⭐️ 鼻吸(推荐) 口服 卷烟 烫吸 建议间隔时间： 三至七天 规格 价格 每粒均价一粒装 30U 30U 二粒装 56U 28U (省2...",
+              "display_url": "yaowubaikerc.ca/store/moon_dust",
+              "end": 57,
+              "expanded_url": "https://yaowubaikerc.ca/store/moon_dust",
+              "start": 34,
+              "status": 200,
+              "title": "⭐️月尘——超爽副作用更小的完美解离剂⭐️",
+              "unwound_url": "https://yaowubaikerc.ca/store/moon_dust",
+              "url": "https://t.co/350RHyJwlX"
+            },
+            {
+              "description": "You can view and join @yaowubaikeca right away.",
+              "display_url": "t.me/yaowubaikeca",
+              "end": 98,
+              "expanded_url": "https://t.me/yaowubaikeca",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "药物百科官方交流群",
+              "unwound_url": "https://t.me/yaowubaikeca",
+              "url": "https://t.co/GSdrJ7Hp5s"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/yaowubaike/status/1965996323834048562",
+              "start": 191,
+              "url": "https://t.co/82mNrxSNVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967080081333121448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13014,
+          "like_count": 16,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965996323834048562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#药物百科RC\n「月尘LunaDust🌙」正式发售😋\n\n详细介绍见：https://t.co/350RHyJwlX\n\n购买渠道：药物百科官推/tg群组https://t.co/GSdrJ7Hp5s\n\n以下公布开奖名单：@Citrus_amara @Artemis121xuan @shudesu00 @winterfruit_1 @zqtlovekris99 \n宝宝们私信领取喔♡ https://t.co/82mNrxSNVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主@drug_artist1 及多位编辑共同运营 有报告欢迎私信投稿 | 购买商品请私信此号或加入tg群组 | wiki:https://t.co/Ifss91B6xz | 商店:https://t.co/ncmugUVuaK | tg:https://t.co/k0RnSIiYz9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "drug_artist1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 101,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 78,
+                "url": "https://t.co/Ifss91B6xz"
+              },
+              {
+                "display_url": "yaowubaikerc.ca",
+                "end": 130,
+                "expanded_url": "https://yaowubaikerc.ca",
+                "start": 107,
+                "url": "https://t.co/ncmugUVuaK"
+              },
+              {
+                "display_url": "t.me/yaowubaikeca",
+                "end": 159,
+                "expanded_url": "https://t.me/yaowubaikeca",
+                "start": 136,
+                "url": "https://t.co/k0RnSIiYz9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1967080081333121448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 23,
+          "like_count": 76,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

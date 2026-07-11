@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1965996323834048562",
+    "created_at": "2025-09-14T13:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967214459904282658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952840882765672448",
+          "start": 0,
+          "username": "sun_xi89942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967214459904282658",
+    "in_reply_to_user_id": "1952840882765672448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967213836110594470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sun_xi89942 已经开奖了哈宝宝🥺不过不用灰心我们过段时间还会接着发抽奖的哈\n\n现在可以正式买了就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1965996323834048562",
+        "created_at": "2025-09-14T13:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967214459904282658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952840882765672448",
+              "start": 0,
+              "username": "sun_xi89942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967214459904282658",
+        "in_reply_to_user_id": "1952840882765672448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967213836110594470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sun_xi89942 已经开奖了哈宝宝🥺不过不用灰心我们过段时间还会接着发抽奖的哈\n\n现在可以正式买了就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952840882765672448",
+        "conversation_id": "1965996323834048562",
+        "created_at": "2025-09-14T13:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967213836110594470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967213836110594470",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965996323834048562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 111"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主@drug_artist1 及多位编辑共同运营 有报告欢迎私信投稿 | 购买商品请私信此号或加入tg群组 | wiki:https://t.co/Ifss91B6xz | 商店:https://t.co/ncmugUVuaK | tg:https://t.co/k0RnSIiYz9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "drug_artist1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 101,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 78,
+                "url": "https://t.co/Ifss91B6xz"
+              },
+              {
+                "display_url": "yaowubaikerc.ca",
+                "end": 130,
+                "expanded_url": "https://yaowubaikerc.ca",
+                "start": 107,
+                "url": "https://t.co/ncmugUVuaK"
+              },
+              {
+                "display_url": "t.me/yaowubaikeca",
+                "end": 159,
+                "expanded_url": "https://t.me/yaowubaikeca",
+                "start": 136,
+                "url": "https://t.co/k0RnSIiYz9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1967080081333121448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 24,
+          "like_count": 46,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T21:15:35.000Z",
+        "description": "",
+        "id": "1952840882765672448",
+        "name": "zx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952842023758905347/bzybKUS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "sun_xi89942",
+        "verified": false
+      }
+    ]
+  }
+}

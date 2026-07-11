@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1979901787013304418",
+    "created_at": "2025-10-19T20:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T21:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980001979603771795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613066923801202689",
+          "start": 0,
+          "username": "tingDavid6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980001979603771795",
+    "in_reply_to_user_id": "1613066923801202689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980001514195181749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingDavid6 这是代价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1979901787013304418",
+        "created_at": "2025-10-19T20:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T21:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980001979603771795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613066923801202689",
+              "start": 0,
+              "username": "tingDavid6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980001979603771795",
+        "in_reply_to_user_id": "1613066923801202689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980001514195181749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingDavid6 这是代价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613066923801202689",
+        "conversation_id": "1979901787013304418",
+        "created_at": "2025-10-19T20:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T21:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980001514195181749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980001514195181749",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979901787013304418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 戒断反应不是痛苦之一吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 30,
+          "like_count": 137,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T06:55:12.000Z",
+        "description": "用骄傲对待骄傲的前额，\n用善良对待善良的心肠：\n这是我一生永恒的规律，\n只有采摘玫瑰才弯下脊梁。",
+        "id": "1613066923801202689",
+        "location": "Sapporo City Atsubetsu Ward",
+        "name": "ting David",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966948242643660800/kVOAWdFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 853,
+          "like_count": 4469,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 851
+        },
+        "username": "tingDavid6",
+        "verified": false
+      }
+    ]
+  }
+}

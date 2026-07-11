@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2038559860846182717",
+    "created_at": "2026-03-30T10:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038559860846182717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2037653654128517451",
+          "start": 97,
+          "url": "https://t.co/1daGryeFkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038559860846182717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037653654128517451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "420 说带XX平的药都很煞笔 我觉得并非 很多医生都喜欢开传统抗精神病药 奥氮平、米氮平、喹硫平等等 这些药虽然脏 但是的确对很多症状都有效 副作用和作用同样大 在某些时候使用是可以的有效的 https://t.co/1daGryeFkk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2038559860846182717",
+        "created_at": "2026-03-30T10:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038559860846182717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2037653654128517451",
+              "start": 97,
+              "url": "https://t.co/1daGryeFkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038559860846182717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037653654128517451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "420 说带XX平的药都很煞笔 我觉得并非 很多医生都喜欢开传统抗精神病药 奥氮平、米氮平、喹硫平等等 这些药虽然脏 但是的确对很多症状都有效 副作用和作用同样大 在某些时候使用是可以的有效的 https://t.co/1daGryeFkk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2037653654128517451",
+        "created_at": "2026-03-27T22:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T23:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037653654128517451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037653654128517451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 69800,
+          "like_count": 445,
+          "quote_count": 10,
+          "reply_count": 94,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我发现叫XX平的药都很啥吡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 35,
+          "like_count": 431,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "💙💙💙 / Love @w0sh1Asak1 / WinterFruit / 💙💙💙🔮里账：@_Yuyuko_FTZ 🔮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "一群人，一辈子，做好传播药是本文化这件事",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 1470,
+          "like_count": 38434,
+          "listed_count": 7,
+          "media_count": 1597,
+          "tweet_count": 11253
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

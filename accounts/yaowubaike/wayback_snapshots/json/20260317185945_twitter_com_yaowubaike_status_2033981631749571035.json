@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2033981631749571035",
+    "created_at": "2026-03-17T18:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033981631749571035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yng01452256668…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/yng014522566684/status/2033978896883073514",
+          "start": 152,
+          "url": "https://t.co/ukCuKstty6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033981631749571035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033978896883073514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来了. 我会给大家提供更好的更新的知识. 错误的地方欢迎指正. 但我不喜欢吵. 骂我的. 质疑我的我都会无视 .给大家一个见面礼.\n\n买不到普瑞巴林的oder. 随便去一个医院疼痛科或神经内科.说来开药的. 带状孢疹后神经痛.普瑞巴林一直在吃.让他给开点.然后拿好处方.拍照用自己的身份拼多多随便买. https://t.co/ukCuKstty6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2033981631749571035",
+        "created_at": "2026-03-17T18:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033981631749571035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yng01452256668…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/yng014522566684/status/2033978896883073514",
+              "start": 152,
+              "url": "https://t.co/ukCuKstty6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033981631749571035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033978896883073514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来了. 我会给大家提供更好的更新的知识. 错误的地方欢迎指正. 但我不喜欢吵. 骂我的. 质疑我的我都会无视 .给大家一个见面礼.\n\n买不到普瑞巴林的oder. 随便去一个医院疼痛科或神经内科.说来开药的. 带状孢疹后神经痛.普瑞巴林一直在吃.让他给开点.然后拿好处方.拍照用自己的身份拼多多随便买. https://t.co/ukCuKstty6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718776457198280704",
+        "conversation_id": "2033978896883073514",
+        "created_at": "2026-03-17T18:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033978896883073514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033978896883073514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是凌雪 药物百科wiki主.\n私人号接受药物咨询.\n我会继续运营药物百科.\n我从来没混过圈 但请大家不要质疑我的能力.\n我会发一些药物知识和碎碎念.\n我不认识各位 望各位多多包涵."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2899,
+          "following_count": 35,
+          "like_count": 422,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "药物百科wiki主 凌雪.\nR.I.P沐雨 不再收门槛 有药物问题可以咨询我.\n我会重启药百 继续建设",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/vxEtciQBnh"
+              }
+            ]
+          }
+        },
+        "id": "1718776457198280704",
+        "location": "浙江",
+        "name": "凌雪",
+        "pinned_tweet_id": "2014786504321860014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033965567074557952/9caXrlJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 121,
+          "like_count": 2180,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/vxEtciQBnh",
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}

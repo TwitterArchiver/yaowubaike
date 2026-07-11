@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069586240068800512"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "2069586247396516156",
+    "created_at": "2026-06-24T00:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069586247396516156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ThDt7eIqW0",
+          "end": 161,
+          "expanded_url": "https://x.com/yaowubaike/status/2069586247396516156/photo/1",
+          "media_key": "3_2069586240068800512",
+          "start": 138,
+          "url": "https://t.co/ThDt7eIqW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069586247396516156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神科利剑 奥氮平\n吃完就睡 食欲暴增 体重猛长六十斤\n所有抗精神病药物都一样\n副作用都太严重 要么猛睡\n要么食欲大增\n关键是服用抗精神病药物会导致你\n服用很多od药物都没有药效\n建议真的需要抗精神病的人员\n去吃阿立哌唑 阿立哌唑口崩片算是\n抗精神病药里副作用最小的药之一了 https://t.co/ThDt7eIqW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2069586240068800512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiluF9WUAA1e1k.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069586240068800512"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2069586247396516156",
+        "created_at": "2026-06-24T00:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069586247396516156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThDt7eIqW0",
+              "end": 161,
+              "expanded_url": "https://x.com/yaowubaike/status/2069586247396516156/photo/1",
+              "media_key": "3_2069586240068800512",
+              "start": 138,
+              "url": "https://t.co/ThDt7eIqW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069586247396516156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神科利剑 奥氮平\n吃完就睡 食欲暴增 体重猛长六十斤\n所有抗精神病药物都一样\n副作用都太严重 要么猛睡\n要么食欲大增\n关键是服用抗精神病药物会导致你\n服用很多od药物都没有药效\n建议真的需要抗精神病的人员\n去吃阿立哌唑 阿立哌唑口崩片算是\n抗精神病药里副作用最小的药之一了 https://t.co/ThDt7eIqW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 55,
+          "like_count": 676,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

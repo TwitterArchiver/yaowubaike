@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1978323300163162308",
+    "created_at": "2025-10-16T08:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T09:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978740575592493518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748235492414607360",
+          "start": 0,
+          "username": "SoYouRmyCurse"
+        },
+        {
+          "end": 27,
+          "id": "1726969617850286080",
+          "start": 15,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978740575592493518",
+    "in_reply_to_user_id": "1748235492414607360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978323300163162308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoYouRmyCurse @NashiMoe233 神药😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1978323300163162308",
+        "created_at": "2025-10-16T08:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978740575592493518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748235492414607360",
+              "start": 0,
+              "username": "SoYouRmyCurse"
+            },
+            {
+              "end": 27,
+              "id": "1726969617850286080",
+              "start": 15,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978740575592493518",
+        "in_reply_to_user_id": "1748235492414607360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978323300163162308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoYouRmyCurse @NashiMoe233 神药😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748235492414607360",
+        "conversation_id": "1978323300163162308",
+        "created_at": "2025-10-15T04:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978323300163162308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978323300163162308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "12:45 月尘（3-MeO-PCE）1t 鼻吸\n非常经典的pcp衍生物味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 29,
+          "like_count": 118,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T06:47:13.000Z",
+        "description": "备用号 除了生活什么都发丨non-binary丨osdd丨drugtwt丨冬だった醒めないで夢に見た桃源郷はもうそこにある",
+        "id": "1748235492414607360",
+        "location": "我一直在你身边哦",
+        "name": "冬がすぎたら",
+        "pinned_tweet_id": "1970917443691495521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969266786937032704/TiQGoj3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 39,
+          "like_count": 3799,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 265
+        },
+        "username": "SoYouRmyCurse",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨ip杭州可以找我喝酒丨不回答药物滥用相关问题",
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977587423136870400/7ekCHX6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 194,
+          "like_count": 20253,
+          "listed_count": 4,
+          "media_count": 582,
+          "tweet_count": 11593
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

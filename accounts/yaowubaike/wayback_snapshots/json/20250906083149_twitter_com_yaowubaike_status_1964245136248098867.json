@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1964245136248098867",
+    "created_at": "2025-09-06T08:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T09:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964245136248098867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963867793776070656",
+          "start": 3,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964245136248098867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964241286149361961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist1: 苯二氮卓类化合物本身就有抗焦虑效果，然后再叠加上多巴胺释放效果，你们可以想象，当一个人从严重焦虑惊恐的状态，在几分钟内瞬间扭转成无忧无虑，开心快乐的状态，这会产生强烈的心理震撼 当大脑奖赏区域的多巴胺水平突然激增时 令人上瘾的药物对弱势个体具…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1964245136248098867",
+        "created_at": "2025-09-06T08:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T09:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964245136248098867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963867793776070656",
+              "start": 3,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964245136248098867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964241286149361961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist1: 苯二氮卓类化合物本身就有抗焦虑效果，然后再叠加上多巴胺释放效果，你们可以想象，当一个人从严重焦虑惊恐的状态，在几分钟内瞬间扭转成无忧无虑，开心快乐的状态，这会产生强烈的心理震撼 当大脑奖赏区域的多巴胺水平突然激增时 令人上瘾的药物对弱势个体具…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1964241286149361961",
+        "created_at": "2025-09-06T08:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T09:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964241286149361961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964241286149361961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "苯二氮卓类化合物本身就有抗焦虑效果，然后再叠加上多巴胺释放效果，你们可以想象，当一个人从严重焦虑惊恐的状态，在几分钟内瞬间扭转成无忧无虑，开心快乐的状态，这会产生强烈的心理震撼 当大脑奖赏区域的多巴胺水平突然激增时 令人上瘾的药物对弱势个体具有灾难性的吸引力 Xanax 最伟大的化合物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主和两位副wiki主共同运营 wiki主沐雨@drug_artist1副wiki主弦月@CY_Mystica/小猫@Drugs_Kitten 我们会是最好的药物wiki 有报告欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "CY_Mystica"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Drugs_Kitten"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1962741208578695500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 18,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主（秽土转生版）\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨（秽土转生）",
+        "pinned_tweet_id": "1963877436057108755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 26,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

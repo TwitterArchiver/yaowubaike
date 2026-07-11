@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2038934632436027802",
+    "created_at": "2026-03-31T13:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038968968887849350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038968968887849350",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038934632436027802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 我用我私人号给你私信了老师 我一直想找你互fo 觉得你中推OD党搞得好 为什么非得浪费时间长篇大论呢 像小学生吵架一样 我们不如一起研究研究新药物新配方 研究oder们需要的东西 别攻击欲这么强了鼠尾草老师🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 390,
+        "media_key": "3_2038932134086234112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu9-SVW0AAGbcV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2038934632436027802",
+        "created_at": "2026-03-31T13:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038968968887849350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038968968887849350",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038934632436027802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我用我私人号给你私信了老师 我一直想找你互fo 觉得你中推OD党搞得好 为什么非得浪费时间长篇大论呢 像小学生吵架一样 我们不如一起研究研究新药物新配方 研究oder们需要的东西 别攻击欲这么强了鼠尾草老师🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038932134086234112"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2038934632436027802",
+        "created_at": "2026-03-31T11:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038934632436027802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9bRm1QhNy",
+              "end": 168,
+              "expanded_url": "https://x.com/SalviaSWC/status/2038934632436027802/photo/1",
+              "media_key": "3_2038932134086234112",
+              "start": 145,
+              "url": "https://t.co/W9bRm1QhNy"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/yaowubaike/status/2038878939314286606",
+              "start": 169,
+              "url": "https://t.co/GSEqCHMJHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038934632436027802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038878939314286606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神了，我自己只是随便展示一个有趣的细节，为什么要默认我对你在进行“阴谋论”?怎么比沐雨本人的脸皮还厚，非要让我把话讲明白吗?😅\n\n热知识:只有加了微信好友后，才能看到他点赞了一个微信公众号的文章。\n\n这张图意味着药物百科皮下与“李云齐毛发检测 辩护律师团”是微信好友关系。我觉得蛮厉害的😩 https://t.co/W9bRm1QhNy https://t.co/GSEqCHMJHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 37,
+          "like_count": 443,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "pinned_tweet_id": "2036091782501433723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 991,
+          "like_count": 21785,
+          "listed_count": 9,
+          "media_count": 404,
+          "tweet_count": 6576
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

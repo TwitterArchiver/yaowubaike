@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066823070325882880"
+      ],
+      "media_source_tweet_id": [
+        "2066823076604686504"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "2066827966437564660",
+    "created_at": "2026-06-16T10:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066827966437564660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066821700847902720",
+          "start": 3,
+          "username": "Mercydlt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZEGM5mB3i",
+          "end": 75,
+          "expanded_url": "https://x.com/Mercydlt/status/2066823076604686504/photo/1",
+          "media_key": "3_2066823070325882880",
+          "start": 52,
+          "url": "https://t.co/YZEGM5mB3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066827966437564660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066823076604686504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercydlt: 我是Mercy，下面这个是我。由于被封怕了所以暂时不敢用相同的头像了。。。 https://t.co/YZEGM5mB3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2066823070325882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7UochbQAAzEiU.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066823070325882880"
+          ],
+          "media_source_tweet_id": [
+            "2066823076604686504"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2066827966437564660",
+        "created_at": "2026-06-16T10:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066827966437564660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066821700847902720",
+              "start": 3,
+              "username": "Mercydlt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZEGM5mB3i",
+              "end": 75,
+              "expanded_url": "https://x.com/Mercydlt/status/2066823076604686504/photo/1",
+              "media_key": "3_2066823070325882880",
+              "start": 52,
+              "url": "https://t.co/YZEGM5mB3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066827966437564660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066823076604686504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercydlt: 我是Mercy，下面这个是我。由于被封怕了所以暂时不敢用相同的头像了。。。 https://t.co/YZEGM5mB3i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066823070325882880"
+          ]
+        },
+        "author_id": "2066821700847902720",
+        "conversation_id": "2066823076604686504",
+        "created_at": "2026-06-16T09:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066823076604686504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZEGM5mB3i",
+              "end": 61,
+              "expanded_url": "https://x.com/Mercydlt/status/2066823076604686504/photo/1",
+              "media_key": "3_2066823070325882880",
+              "start": 38,
+              "url": "https://t.co/YZEGM5mB3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066823076604686504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是Mercy，下面这个是我。由于被封怕了所以暂时不敢用相同的头像了。。。 https://t.co/YZEGM5mB3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4784,
+          "following_count": 48,
+          "like_count": 664,
+          "listed_count": 6,
+          "media_count": 81,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T09:55:11.000Z",
+        "description": "我是Mercy，互关寻回",
+        "id": "2066821700847902720",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066822182257537025/9KIQBK5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 26,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Mercydlt",
+        "verified": false
+      }
+    ]
+  }
+}

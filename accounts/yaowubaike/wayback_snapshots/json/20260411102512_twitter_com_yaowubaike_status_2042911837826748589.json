@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2042911837826748589",
+    "created_at": "2026-04-11T10:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042911837826748589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042911837826748589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042904489229787247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 【药百GPT·预告……】\n各位在霓虹时亮时灭的互联网上寄居的推友\n不管是抑郁躁狂精神分裂\n不管是在可悲的现实世界里失败多少次\n不管是因为什么而来到这\n你们都辛苦了❤\n\n吞下药片摆脱该死的现实世界吧✞\n即使跌入滥用的深渊也没关系\n由我药百酱当你的降…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2042897582385696774",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnUhwaakAYsXQI.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2042911837826748589",
+        "created_at": "2026-04-11T10:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042911837826748589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042911837826748589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042904489229787247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 【药百GPT·预告……】\n各位在霓虹时亮时灭的互联网上寄居的推友\n不管是抑郁躁狂精神分裂\n不管是在可悲的现实世界里失败多少次\n不管是因为什么而来到这\n你们都辛苦了❤\n\n吞下药片摆脱该死的现实世界吧✞\n即使跌入滥用的深渊也没关系\n由我药百酱当你的降…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042897582385696774"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2042904489229787247",
+        "created_at": "2026-04-11T09:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042904489229787247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHHpl8hRqv",
+              "end": 173,
+              "expanded_url": "https://x.com/amecandy_x/status/2042904489229787247/photo/1",
+              "media_key": "3_2042897582385696774",
+              "start": 150,
+              "url": "https://t.co/uHHpl8hRqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042904489229787247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【药百GPT·预告……】\n各位在霓虹时亮时灭的互联网上寄居的推友\n不管是抑郁躁狂精神分裂\n不管是在可悲的现实世界里失败多少次\n不管是因为什么而来到这\n你们都辛苦了❤\n\n吞下药片摆脱该死的现实世界吧✞\n即使跌入滥用的深渊也没关系\n由我药百酱当你的降落伞♡\n\n♡药百GPT♡ 𝘤𝘰𝘮𝘪𝘯𝘨 𝘴𝘰𝘰𝘯🪽💜 https://t.co/uHHpl8hRqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3293,
+          "following_count": 41,
+          "like_count": 527,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5807,
+          "following_count": 2058,
+          "like_count": 26858,
+          "listed_count": 15,
+          "media_count": 1399,
+          "tweet_count": 9954
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

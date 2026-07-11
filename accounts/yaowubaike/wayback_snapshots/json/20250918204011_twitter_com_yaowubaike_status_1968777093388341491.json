@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968709254195593217"
+      ],
+      "media_source_tweet_id": [
+        "1968709272000217569"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1968777093388341491",
+    "created_at": "2025-09-18T20:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T21:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968777093388341491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963867793776070656",
+          "start": 3,
+          "username": "drug_artist1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1h7o87Do6Z",
+          "end": 102,
+          "expanded_url": "https://x.com/drug_artist1/status/1968709272000217569/photo/1",
+          "media_key": "3_1968709254195593217",
+          "start": 79,
+          "url": "https://t.co/1h7o87Do6Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968777093388341491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968709272000217569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist1: 我太累了\n让我舒服一下\n老吃家了😋\n40t普瑞+4t替扎尼定+2t巴氯芬+2t思诺思+2t劳拉+2t托鲁地文拉法辛+魔爪 https://t.co/1h7o87Do6Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1968709254195593217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1JCotJaQAEwkW1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968709254195593217"
+          ],
+          "media_source_tweet_id": [
+            "1968709272000217569"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968777093388341491",
+        "created_at": "2025-09-18T20:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T21:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968777093388341491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963867793776070656",
+              "start": 3,
+              "username": "drug_artist1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1h7o87Do6Z",
+              "end": 102,
+              "expanded_url": "https://x.com/drug_artist1/status/1968709272000217569/photo/1",
+              "media_key": "3_1968709254195593217",
+              "start": 79,
+              "url": "https://t.co/1h7o87Do6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968777093388341491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968709272000217569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist1: 我太累了\n让我舒服一下\n老吃家了😋\n40t普瑞+4t替扎尼定+2t巴氯芬+2t思诺思+2t劳拉+2t托鲁地文拉法辛+魔爪 https://t.co/1h7o87Do6Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968709254195593217"
+          ]
+        },
+        "author_id": "1963867793776070656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968709272000217569",
+        "created_at": "2025-09-18T16:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968709272000217569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1h7o87Do6Z",
+              "end": 84,
+              "expanded_url": "https://x.com/drug_artist1/status/1968709272000217569/photo/1",
+              "media_key": "3_1968709254195593217",
+              "start": 61,
+              "url": "https://t.co/1h7o87Do6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968709272000217569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我太累了\n让我舒服一下\n老吃家了😋\n40t普瑞+4t替扎尼定+2t巴氯芬+2t思诺思+2t劳拉+2t托鲁地文拉法辛+魔爪 https://t.co/1h7o87Do6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主@drug_artist1 及多位编辑共同运营 有报告欢迎私信投稿 | 购买商品请私信此号或加入tg群组 | wiki:https://t.co/Ifss91B6xz | 商店:https://t.co/ncmugUVuaK | tg:https://t.co/k0RnSIiYz9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "drug_artist1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 101,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 78,
+                "url": "https://t.co/Ifss91B6xz"
+              },
+              {
+                "display_url": "yaowubaikerc.ca",
+                "end": 130,
+                "expanded_url": "https://yaowubaikerc.ca",
+                "start": 107,
+                "url": "https://t.co/ncmugUVuaK"
+              },
+              {
+                "display_url": "t.me/yaowubaikeca",
+                "end": 159,
+                "expanded_url": "https://t.me/yaowubaikeca",
+                "start": 136,
+                "url": "https://t.co/k0RnSIiYz9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1967080081333121448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 24,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主（秽土转生版）\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRToqxO"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨（秽土转生）",
+        "pinned_tweet_id": "1964645990381887964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 38,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/N4ZvRToqxO",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

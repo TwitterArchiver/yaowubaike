@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038177034892173313"
+      ],
+      "media_source_tweet_id": [
+        "2038177059542024648"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "2038177183466930395",
+    "created_at": "2026-03-29T08:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038177183466930395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1718776457198280704",
+          "start": 3,
+          "username": "yng014522566684"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gUzIa6AQbK",
+          "end": 82,
+          "expanded_url": "https://x.com/yng014522566684/status/2038177059542024648/photo/1",
+          "media_key": "3_2038177034892173313",
+          "start": 59,
+          "url": "https://t.co/gUzIa6AQbK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038177183466930395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038177059542024648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yng014522566684: 速刷曲马多。甚至处方都不用。pr和玉米禁了吃什么？大阿片时代直接到临！！！ https://t.co/gUzIa6AQbK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038177034892173313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkPNuobYAEef1B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038177034892173313"
+          ],
+          "media_source_tweet_id": [
+            "2038177059542024648"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2038177183466930395",
+        "created_at": "2026-03-29T08:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038177183466930395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1718776457198280704",
+              "start": 3,
+              "username": "yng014522566684"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUzIa6AQbK",
+              "end": 82,
+              "expanded_url": "https://x.com/yng014522566684/status/2038177059542024648/photo/1",
+              "media_key": "3_2038177034892173313",
+              "start": 59,
+              "url": "https://t.co/gUzIa6AQbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038177183466930395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038177059542024648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yng014522566684: 速刷曲马多。甚至处方都不用。pr和玉米禁了吃什么？大阿片时代直接到临！！！ https://t.co/gUzIa6AQbK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038177034892173313"
+          ]
+        },
+        "author_id": "1718776457198280704",
+        "conversation_id": "2038177059542024648",
+        "created_at": "2026-03-29T08:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038177059542024648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUzIa6AQbK",
+              "end": 61,
+              "expanded_url": "https://x.com/yng014522566684/status/2038177059542024648/photo/1",
+              "media_key": "3_2038177034892173313",
+              "start": 38,
+              "url": "https://t.co/gUzIa6AQbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038177059542024648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "速刷曲马多。甚至处方都不用。pr和玉米禁了吃什么？大阿片时代直接到临！！！ https://t.co/gUzIa6AQbK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3021,
+          "following_count": 35,
+          "like_count": 428,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "药物百科wiki主 凌雪.\nR.I.P沐雨 不再收门槛 有药物问题可以咨询我.提问箱：https://t.co/L1c5rhlDC1.\n我会重启药百 继续建设",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 66,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 43,
+                "url": "https://t.co/L1c5rhlDC1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/vxEtciQBnh"
+              }
+            ]
+          }
+        },
+        "id": "1718776457198280704",
+        "location": "浙江",
+        "name": "凌雪",
+        "pinned_tweet_id": "2033978896883073514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033965567074557952/9caXrlJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 122,
+          "like_count": 2188,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/vxEtciQBnh",
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}

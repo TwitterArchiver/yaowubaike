@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2042649060667199507",
+    "created_at": "2026-04-12T04:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043184112383783334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747796235791261696",
+          "start": 0,
+          "username": "Z4m3A8yyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043184112383783334",
+    "in_reply_to_user_id": "1747796235791261696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042927312535232726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z4m3A8yyq 因为我是死者家属 我能不能提出保护他的肖像权？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2042649060667199507",
+        "created_at": "2026-04-12T04:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043184112383783334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747796235791261696",
+              "start": 0,
+              "username": "Z4m3A8yyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043184112383783334",
+        "in_reply_to_user_id": "1747796235791261696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042927312535232726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z4m3A8yyq 因为我是死者家属 我能不能提出保护他的肖像权？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747796235791261696",
+        "conversation_id": "2042649060667199507",
+        "created_at": "2026-04-11T11:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042927312535232726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042927312535232726",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4893,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042649060667199507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 民法典是这么说的，肖像权等人格权始于出生，终于死亡，死者本人不再享有肖像权，所以不存在未经本人同意的问题，家属如果觉得不好的话，也可以提出来，但是首先是家属得提出啊，著作权法好像我也查了一下，24条有说宣传国家机关的法定职责可以合理使用别人发表的作品，无需许可，所以可能属于这情形（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 41,
+          "like_count": 529,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T01:41:18.000Z",
+        "description": "INTP-T，建制",
+        "id": "1747796235791261696",
+        "location": "湖南衡阳",
+        "name": "Zzzz🇨🇳",
+        "pinned_tweet_id": "1747896681365148102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989974391804104706/h-HmAVlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 650,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "username": "Z4m3A8yyq",
+        "verified": false
+      }
+    ]
+  }
+}

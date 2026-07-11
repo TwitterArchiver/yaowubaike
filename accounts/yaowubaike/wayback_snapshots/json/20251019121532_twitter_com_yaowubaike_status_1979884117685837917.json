@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1979879312477339683",
+    "created_at": "2025-10-19T12:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979884117685837917"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979884117685837917",
+    "in_reply_to_user_id": "1962425480612851712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979879312477339683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "84片白兔Bron（一瓶）≈210mg二氢可待因，630mg咖啡因，350mg甲麻黄碱，所以理论上一瓶就够"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_1979879297251708928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nxuyLWkAAEceY.jpg",
+        "width": 734
+      },
+      {
+        "height": 1202,
+        "media_key": "3_1979879309171912705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nxvelWcAElLdE.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1979879312477339683",
+        "created_at": "2025-10-19T12:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979884117685837917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979884117685837917",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979879312477339683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "84片白兔Bron（一瓶）≈210mg二氢可待因，630mg咖啡因，350mg甲麻黄碱，所以理论上一瓶就够"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979879297251708928",
+            "3_1979879309171912705"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1979879312477339683",
+        "created_at": "2025-10-19T11:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979879312477339683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDqe1hyN6f",
+              "end": 97,
+              "expanded_url": "https://x.com/yaowubaike/status/1979879312477339683/photo/1",
+              "media_key": "3_1979879297251708928",
+              "start": 74,
+              "url": "https://t.co/XDqe1hyN6f"
+            },
+            {
+              "display_url": "pic.x.com/XDqe1hyN6f",
+              "end": 97,
+              "expanded_url": "https://x.com/yaowubaike/status/1979879312477339683/photo/1",
+              "media_key": "3_1979879309171912705",
+              "start": 74,
+              "url": "https://t.co/XDqe1hyN6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979879312477339683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片鬼可以从白兔Bron里提取二氢可待因以制作Lean（紫水）\n200mg二氢可待因加冰块兑500ml紫色汽水\n200mg为重度剂量 不要轻易尝试 https://t.co/XDqe1hyN6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 31,
+          "like_count": 129,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

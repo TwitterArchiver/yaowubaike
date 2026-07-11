@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1964022171002396817",
+    "created_at": "2025-09-05T17:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T18:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964022171002396817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964022171002396817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药物百科的官方网站仍在持续优化中，我们的网站将对毒品、精神活性物质进行禁毒宣传科普，对其他各类药物的药理及作用用途进行科普。愿每一位药物成瘾者可以脱离苦海，回归生活，也愿大家可以通过我们的网站了解更多日常用药知识，在面临疾病时可以正确应对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1964022171002396817",
+        "created_at": "2025-09-05T17:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964022171002396817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964022171002396817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科的官方网站仍在持续优化中，我们的网站将对毒品、精神活性物质进行禁毒宣传科普，对其他各类药物的药理及作用用途进行科普。愿每一位药物成瘾者可以脱离苦海，回归生活，也愿大家可以通过我们的网站了解更多日常用药知识，在面临疾病时可以正确应对。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主和两位副wiki主共同运营 wiki主沐雨@drug_artist1副wiki主弦月@CY_Mystica/小猫@Drugs_Kitten 我们会是最好的药物wiki 有报告欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "CY_Mystica"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Drugs_Kitten"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1962741208578695500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 18,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

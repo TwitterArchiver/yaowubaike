@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969011228354961408"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969011238173859941",
+    "created_at": "2025-09-19T12:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969011238173859941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "药物百科RC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 97,
+          "id": "1893688350076542976",
+          "start": 85,
+          "username": "drug_artist"
+        },
+        {
+          "end": 108,
+          "id": "1921139176764043264",
+          "start": 98,
+          "username": "cicada600"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @yaowubaikeca right away.",
+          "display_url": "t.me/yaowubaikeca",
+          "end": 65,
+          "expanded_url": "http://t.me/yaowubaikeca",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 42,
+          "status": 200,
+          "title": "药物百科官方交流群",
+          "unwound_url": "https://t.me/yaowubaikeca",
+          "url": "https://t.co/qC12L9vXz7"
+        },
+        {
+          "display_url": "pic.x.com/kVwAThZYuz",
+          "end": 144,
+          "expanded_url": "https://x.com/yaowubaike/status/1969011238173859941/photo/1",
+          "media_key": "3_1969011228354961408",
+          "start": 121,
+          "url": "https://t.co/kVwAThZYuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969011238173859941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#药物百科RC\n精品神药一秒上架「灵尘🫧」发售😋\n\n购买渠道：药物百科官推/tg群组https://t.co/qC12L9vXz7 /tg客服@MediKittyUwU @drug_artist @CICADA600 \n\n宝宝们私信下单喔♡ https://t.co/kVwAThZYuz"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [drug_artist].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "drug_artist",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "drug_artist"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969011228354961408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NVR6jaYAAv5ew.jpg",
+        "width": 468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969011228354961408"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969011238173859941",
+        "created_at": "2025-09-19T12:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969011238173859941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "药物百科RC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1893688350076542976",
+              "start": 85,
+              "username": "drug_artist"
+            },
+            {
+              "end": 108,
+              "id": "1921139176764043264",
+              "start": 98,
+              "username": "cicada600"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @yaowubaikeca right away.",
+              "display_url": "t.me/yaowubaikeca",
+              "end": 65,
+              "expanded_url": "http://t.me/yaowubaikeca",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "药物百科官方交流群",
+              "unwound_url": "https://t.me/yaowubaikeca",
+              "url": "https://t.co/qC12L9vXz7"
+            },
+            {
+              "display_url": "pic.x.com/kVwAThZYuz",
+              "end": 144,
+              "expanded_url": "https://x.com/yaowubaike/status/1969011238173859941/photo/1",
+              "media_key": "3_1969011228354961408",
+              "start": 121,
+              "url": "https://t.co/kVwAThZYuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969011238173859941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#药物百科RC\n精品神药一秒上架「灵尘🫧」发售😋\n\n购买渠道：药物百科官推/tg群组https://t.co/qC12L9vXz7 /tg客服@MediKittyUwU @drug_artist @CICADA600 \n\n宝宝们私信下单喔♡ https://t.co/kVwAThZYuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主@drug_artist1 及多位编辑共同运营 有报告欢迎私信投稿 | 购买商品请私信此号或加入tg群组 | wiki:https://t.co/Ifss91B6xz | 商店:https://t.co/ncmugUVuaK | tg:https://t.co/k0RnSIiYz9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "drug_artist1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 101,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 78,
+                "url": "https://t.co/Ifss91B6xz"
+              },
+              {
+                "display_url": "yaowubaikerc.ca",
+                "end": 130,
+                "expanded_url": "https://yaowubaikerc.ca",
+                "start": 107,
+                "url": "https://t.co/ncmugUVuaK"
+              },
+              {
+                "display_url": "t.me/yaowubaikeca",
+                "end": 159,
+                "expanded_url": "https://t.me/yaowubaikeca",
+                "start": 136,
+                "url": "https://t.co/k0RnSIiYz9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1967080081333121448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 24,
+          "like_count": 67,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T09:44:52.000Z",
+        "description": "",
+        "id": "1921139176764043264",
+        "name": "cicada",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921139367651012610/P5_3eGHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "cicada600",
+        "verified": false
+      }
+    ]
+  }
+}

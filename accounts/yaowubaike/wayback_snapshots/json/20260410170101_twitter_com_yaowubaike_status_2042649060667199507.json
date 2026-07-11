@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042649002949353472",
+        "3_2042648760648634370"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042649060667199507",
+    "created_at": "2026-04-10T17:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042649060667199507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i9vb6YMTYE",
+          "end": 163,
+          "expanded_url": "https://x.com/yaowubaike/status/2042649060667199507/photo/1",
+          "media_key": "3_2042649002949353472",
+          "start": 140,
+          "url": "https://t.co/i9vb6YMTYE"
+        },
+        {
+          "display_url": "pic.x.com/i9vb6YMTYE",
+          "end": 163,
+          "expanded_url": "https://x.com/yaowubaike/status/2042649060667199507/photo/1",
+          "media_key": "3_2042648760648634370",
+          "start": 140,
+          "url": "https://t.co/i9vb6YMTYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042649060667199507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广州禁毒你挺牛逼啊 用死人的纪录片用上瘾了是吧 人都已经没了 你甚至把他脸漏出来 大家一眼就能看出来这是谁 觉得自己是官方就无视版权法吗？ 没有本人的同意和授权怎么可以使用他的纪录片片段 更何况这个本人也已经去世了 没当事人授权就用 自己先违法了我没绷住\n\n广州禁毒 你有点大病 https://t.co/i9vb6YMTYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042649002949353472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjych2aIAAs1vj.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042648760648634370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjyObNakAI4grK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042649002949353472",
+            "3_2042648760648634370"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042649060667199507",
+        "created_at": "2026-04-10T17:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042649060667199507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9vb6YMTYE",
+              "end": 163,
+              "expanded_url": "https://x.com/yaowubaike/status/2042649060667199507/photo/1",
+              "media_key": "3_2042649002949353472",
+              "start": 140,
+              "url": "https://t.co/i9vb6YMTYE"
+            },
+            {
+              "display_url": "pic.x.com/i9vb6YMTYE",
+              "end": 163,
+              "expanded_url": "https://x.com/yaowubaike/status/2042649060667199507/photo/1",
+              "media_key": "3_2042648760648634370",
+              "start": 140,
+              "url": "https://t.co/i9vb6YMTYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042649060667199507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒你挺牛逼啊 用死人的纪录片用上瘾了是吧 人都已经没了 你甚至把他脸漏出来 大家一眼就能看出来这是谁 觉得自己是官方就无视版权法吗？ 没有本人的同意和授权怎么可以使用他的纪录片片段 更何况这个本人也已经去世了 没当事人授权就用 自己先违法了我没绷住\n\n广州禁毒 你有点大病 https://t.co/i9vb6YMTYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 40,
+          "like_count": 509,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

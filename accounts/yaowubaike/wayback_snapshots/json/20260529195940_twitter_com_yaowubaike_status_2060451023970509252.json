@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2060451023970509252",
+    "created_at": "2026-05-29T19:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060451023970509252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1327197298930028544",
+          "start": 3,
+          "username": "Psydrugswiki"
+        }
+      ],
+      "urls": [
+        {
+          "description": "psychoactive.day",
+          "display_url": "psychoactive.day",
+          "end": 139,
+          "expanded_url": "http://psychoactive.day",
+          "images": [
+            {
+              "height": 1173,
+              "url": "https://pbs.twimg.com/news_img/2060344364962861064/0PAK46sw?format=jpg&name=orig",
+              "width": 1167
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060344364962861064/0PAK46sw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 116,
+          "status": 200,
+          "title": "精神药品百科 - 精神药品Wiki",
+          "unwound_url": "https://psychoactive.day/",
+          "url": "https://t.co/ja6oGa3gVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060451023970509252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060402464999034895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Psydrugswiki: 友站建立！\nPsydrugsWiki与精神药品Wiki正式达成友好合作关系。\n作为由资深编辑创建的新项目，精神药品Wiki将与我们共同推动中文精神药理与药物知识的整理、归档与开放传播。\n请多多关注https://t.co/ja6oGa3gVi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2060451023970509252",
+        "created_at": "2026-05-29T19:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060451023970509252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1327197298930028544",
+              "start": 3,
+              "username": "Psydrugswiki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "psychoactive.day",
+              "display_url": "psychoactive.day",
+              "end": 139,
+              "expanded_url": "http://psychoactive.day",
+              "images": [
+                {
+                  "height": 1173,
+                  "url": "https://pbs.twimg.com/news_img/2060344364962861064/0PAK46sw?format=jpg&name=orig",
+                  "width": 1167
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060344364962861064/0PAK46sw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "精神药品百科 - 精神药品Wiki",
+              "unwound_url": "https://psychoactive.day/",
+              "url": "https://t.co/ja6oGa3gVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060451023970509252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060402464999034895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Psydrugswiki: 友站建立！\nPsydrugsWiki与精神药品Wiki正式达成友好合作关系。\n作为由资深编辑创建的新项目，精神药品Wiki将与我们共同推动中文精神药理与药物知识的整理、归档与开放传播。\n请多多关注https://t.co/ja6oGa3gVi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327197298930028544",
+        "conversation_id": "2060402464999034895",
+        "created_at": "2026-05-29T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060402464999034895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "psychoactive.day",
+              "display_url": "psychoactive.day",
+              "end": 121,
+              "expanded_url": "http://psychoactive.day",
+              "images": [
+                {
+                  "height": 1173,
+                  "url": "https://pbs.twimg.com/news_img/2060344364962861064/0PAK46sw?format=jpg&name=orig",
+                  "width": 1167
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060344364962861064/0PAK46sw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "精神药品百科 - 精神药品Wiki",
+              "unwound_url": "https://psychoactive.day/",
+              "url": "https://t.co/ja6oGa3gVi"
+            },
+            {
+              "description": "精神药物安全使用指南、药物相互作用、过量处理和康复经验分享。提供专业的药物安全知识、紧急处理方案和真实案例报告，帮助用户了解精神活性物质的风险与防范。",
+              "display_url": "psydrugs.org",
+              "end": 145,
+              "expanded_url": "http://psydrugs.org",
+              "start": 122,
+              "status": 200,
+              "title": "精神活性物质指南",
+              "unwound_url": "https://psydrugs.org/",
+              "url": "https://t.co/jwnyNw3T1O"
+            },
+            {
+              "display_url": "x.com/Psycho_Wiki/st…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Psycho_Wiki/status/2060031881526247850",
+              "start": 146,
+              "url": "https://t.co/xsibbXqCzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060402464999034895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 253,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060031881526247850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "友站建立！\nPsydrugsWiki与精神药品Wiki正式达成友好合作关系。\n作为由资深编辑创建的新项目，精神药品Wiki将与我们共同推动中文精神药理与药物知识的整理、归档与开放传播。\n请多多关注https://t.co/ja6oGa3gVi和https://t.co/jwnyNw3T1O https://t.co/xsibbXqCzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 38,
+          "like_count": 642,
+          "listed_count": 6,
+          "media_count": 79,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏  Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普 一个神奇的工作台 https://t.co/5yfyOKiE0A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 57,
+                "expanded_url": "https://psydrugs.org",
+                "start": 34,
+                "url": "https://t.co/CB9yLA9IjF"
+              },
+              {
+                "display_url": "generator.psydrugs.org",
+                "end": 100,
+                "expanded_url": "http://generator.psydrugs.org",
+                "start": 77,
+                "url": "https://t.co/5yfyOKiE0A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2060449609210831206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 231,
+          "like_count": 6275,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 1338
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false
+      }
+    ]
+  }
+}

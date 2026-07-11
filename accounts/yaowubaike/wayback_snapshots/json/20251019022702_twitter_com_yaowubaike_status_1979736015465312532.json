@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979736012306743296",
+        "3_1979736007244177408"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1979736015465312532",
+    "created_at": "2025-10-19T02:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T03:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979736015465312532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WJoo1oeF04",
+          "end": 59,
+          "expanded_url": "https://x.com/yaowubaike/status/1979736015465312532/photo/1",
+          "media_key": "3_1979736012306743296",
+          "start": 36,
+          "url": "https://t.co/WJoo1oeF04"
+        },
+        {
+          "display_url": "pic.x.com/WJoo1oeF04",
+          "end": 59,
+          "expanded_url": "https://x.com/yaowubaike/status/1979736015465312532/photo/1",
+          "media_key": "3_1979736007244177408",
+          "start": 36,
+          "url": "https://t.co/WJoo1oeF04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979736015465312532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睿鹤 普瑞巴林测试 10:25 150mg×7\n长的像一板糖 挺有意思 https://t.co/WJoo1oeF04"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1979736012306743296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lvagKXgAAWlfS.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1979736007244177408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lvaNTW4AA1Zr6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979736012306743296",
+            "3_1979736007244177408"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1979736015465312532",
+        "created_at": "2025-10-19T02:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979736015465312532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJoo1oeF04",
+              "end": 59,
+              "expanded_url": "https://x.com/yaowubaike/status/1979736015465312532/photo/1",
+              "media_key": "3_1979736012306743296",
+              "start": 36,
+              "url": "https://t.co/WJoo1oeF04"
+            },
+            {
+              "display_url": "pic.x.com/WJoo1oeF04",
+              "end": 59,
+              "expanded_url": "https://x.com/yaowubaike/status/1979736015465312532/photo/1",
+              "media_key": "3_1979736007244177408",
+              "start": 36,
+              "url": "https://t.co/WJoo1oeF04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979736015465312532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睿鹤 普瑞巴林测试 10:25 150mg×7\n长的像一板糖 挺有意思 https://t.co/WJoo1oeF04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 31,
+          "like_count": 122,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2061798376044404891",
+    "created_at": "2026-06-03T06:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062059228270039549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744267618947899393",
+          "start": 0,
+          "username": "MentorWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062059228270039549",
+    "in_reply_to_user_id": "1744267618947899393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061798376044404891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MentorWong 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2061798376044404891",
+        "created_at": "2026-06-03T06:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062059228270039549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744267618947899393",
+              "start": 0,
+              "username": "MentorWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062059228270039549",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061798376044404891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentorWong 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744267618947899393",
+        "conversation_id": "2061798376044404891",
+        "created_at": "2026-06-02T13:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061798376044404891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061798376044404891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家好，我是一位來自台灣的台灣人，我想和台灣朋友在X交流，請中國人不要參與回复這個帖子，否則被視為中國支持台灣獨立。\n\nHello everyone, I am a Taiwanese person from Taiwan. I would like to communicate with Taiwanese friends on X. Please, Chinese people, do not reply to this post, otherwise it will be considered as Chinese support for Taiwanese independence."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 33141,
+          "like_count": 196,
+          "quote_count": 3,
+          "reply_count": 378,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是一位來自台灣的台灣人，我想和台灣朋友在X交流，請中國人不要參與回复這個帖子，否則被視為中國支持台灣獨立。\n\nHello everyone, I am a Taiwanese person from Taiwan. I would like to communicate with Taiwanese friends on X. Please, Chinese people, do not reply to this post,"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 41,
+          "like_count": 648,
+          "listed_count": 6,
+          "media_count": 80,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Degen & Premium+ \nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9718,
+          "following_count": 10063,
+          "like_count": 16621,
+          "listed_count": 15,
+          "media_count": 311,
+          "tweet_count": 51212
+        },
+        "username": "MentorWong",
+        "verified": true
+      }
+    ]
+  }
+}

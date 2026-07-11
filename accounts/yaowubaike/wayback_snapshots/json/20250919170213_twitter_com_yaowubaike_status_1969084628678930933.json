@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969084619170725889"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1969084628678930933",
+    "created_at": "2025-09-19T17:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T18:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969084628678930933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "overdose.day",
+          "end": 43,
+          "expanded_url": "http://overdose.day",
+          "images": [
+            {
+              "height": 494,
+              "url": "https://pbs.twimg.com/news_img/1968258101624348672/3UynO9yH?format=png&name=orig",
+              "width": 494
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1968258101624348672/3UynO9yH?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 20,
+          "status": 200,
+          "title": "化学极乐百科",
+          "unwound_url": "https://overdose.day/",
+          "url": "https://t.co/BRwX1ro3f9"
+        },
+        {
+          "display_url": "pic.x.com/L4tPU6xZhA",
+          "end": 146,
+          "expanded_url": "https://x.com/yaowubaike/status/1969084628678930933/photo/1",
+          "media_key": "3_1969084619170725889",
+          "start": 123,
+          "url": "https://t.co/L4tPU6xZhA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969084628678930933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "辟谣一则：「月尘」的成分并非化学极乐百科https://t.co/BRwX1ro3f9 提及的已被列管的物质，是100%非列管物质。具体成分不予透露，可以选择花费高价向我们购买真相，也可以选择购买产品后自行鉴定，对于此恶意造谣行为不多做出评价。 https://t.co/L4tPU6xZhA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969084619170725889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1OYB0pbQAEJ0k6.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969084619170725889"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1969084628678930933",
+        "created_at": "2025-09-19T17:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T18:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969084628678930933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "overdose.day",
+              "end": 43,
+              "expanded_url": "http://overdose.day",
+              "images": [
+                {
+                  "height": 494,
+                  "url": "https://pbs.twimg.com/news_img/1968258101624348672/3UynO9yH?format=png&name=orig",
+                  "width": 494
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968258101624348672/3UynO9yH?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "化学极乐百科",
+              "unwound_url": "https://overdose.day/",
+              "url": "https://t.co/BRwX1ro3f9"
+            },
+            {
+              "display_url": "pic.x.com/L4tPU6xZhA",
+              "end": 146,
+              "expanded_url": "https://x.com/yaowubaike/status/1969084628678930933/photo/1",
+              "media_key": "3_1969084619170725889",
+              "start": 123,
+              "url": "https://t.co/L4tPU6xZhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969084628678930933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "辟谣一则：「月尘」的成分并非化学极乐百科https://t.co/BRwX1ro3f9 提及的已被列管的物质，是100%非列管物质。具体成分不予透露，可以选择花费高价向我们购买真相，也可以选择购买产品后自行鉴定，对于此恶意造谣行为不多做出评价。 https://t.co/L4tPU6xZhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主@drug_artist1 及多位编辑共同运营 有报告欢迎私信投稿 | 购买商品请私信此号或加入tg群组 | wiki:https://t.co/Ifss91B6xz | 商店:https://t.co/ncmugUVuaK | tg:https://t.co/k0RnSIiYz9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "drug_artist1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 101,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 78,
+                "url": "https://t.co/Ifss91B6xz"
+              },
+              {
+                "display_url": "yaowubaikerc.ca",
+                "end": 130,
+                "expanded_url": "https://yaowubaikerc.ca",
+                "start": 107,
+                "url": "https://t.co/ncmugUVuaK"
+              },
+              {
+                "display_url": "t.me/yaowubaikeca",
+                "end": 159,
+                "expanded_url": "https://t.me/yaowubaikeca",
+                "start": 136,
+                "url": "https://t.co/k0RnSIiYz9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1967080081333121448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 24,
+          "like_count": 69,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

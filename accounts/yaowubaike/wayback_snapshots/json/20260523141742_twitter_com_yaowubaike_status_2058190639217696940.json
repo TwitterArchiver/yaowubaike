@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2058145266273034336",
+    "created_at": "2026-05-23T14:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058190639217696940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1450733666376708101",
+          "start": 0,
+          "username": "Styx13W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058190639217696940",
+    "in_reply_to_user_id": "1450733666376708101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058186003232481614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Styx13W 事物的两面性 确实危险 精神病性风险很高 但对于一个解离剂来说 它是个好解离剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2058145266273034336",
+        "created_at": "2026-05-23T14:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058190639217696940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1450733666376708101",
+              "start": 0,
+              "username": "Styx13W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058190639217696940",
+        "in_reply_to_user_id": "1450733666376708101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058186003232481614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Styx13W 事物的两面性 确实危险 精神病性风险很高 但对于一个解离剂来说 它是个好解离剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450733666376708101",
+        "conversation_id": "2058145266273034336",
+        "created_at": "2026-05-23T13:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058186003232481614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058186003232481614",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058145266273034336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 天使尘不是很危险吗 会增加人的攻击性 还容易精神错乱自残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 37,
+          "like_count": 624,
+          "listed_count": 6,
+          "media_count": 79,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T08:00:48.000Z",
+        "description": "Но всё же я хочу пожить",
+        "id": "1450733666376708101",
+        "location": "Cantonia",
+        "name": "Styx13W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051273550322114560/iSFYJs4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 1013,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 4404
+        },
+        "username": "Styx13W",
+        "verified": false
+      }
+    ]
+  }
+}

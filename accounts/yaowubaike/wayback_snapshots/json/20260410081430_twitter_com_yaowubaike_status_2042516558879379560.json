@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042516466281648130"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "2042516558879379560",
+    "created_at": "2026-04-10T08:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042516558879379560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 151,
+          "id": "1621552410048237569",
+          "start": 140,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wphIveh2Qq",
+          "end": 175,
+          "expanded_url": "https://x.com/yaowubaike/status/2042516558879379560/photo/1",
+          "media_key": "3_2042516466281648130",
+          "start": 152,
+          "url": "https://t.co/wphIveh2Qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042516558879379560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家都认为药物百科很久没有更新了吗？现在 它来了 影响整个药圈的重磅功能来袭 药物百科GPT 你可以问它一切药物相关的问题 目前还在内测阶段 完善好了之后会上线药物百科 在OD圈进入地下党的节骨眼上 大家不用担心法律问题 我们只会支持GPT回复安全用药知识 开发者为我们的编辑小雨@amecandy_x https://t.co/wphIveh2Qq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2005,
+        "media_key": "3_2042516466281648130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh554SakAIg7L-.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042516466281648130"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2042516558879379560",
+        "created_at": "2026-04-10T08:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042516558879379560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 151,
+              "id": "1621552410048237569",
+              "start": 140,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wphIveh2Qq",
+              "end": 175,
+              "expanded_url": "https://x.com/yaowubaike/status/2042516558879379560/photo/1",
+              "media_key": "3_2042516466281648130",
+              "start": 152,
+              "url": "https://t.co/wphIveh2Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042516558879379560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都认为药物百科很久没有更新了吗？现在 它来了 影响整个药圈的重磅功能来袭 药物百科GPT 你可以问它一切药物相关的问题 目前还在内测阶段 完善好了之后会上线药物百科 在OD圈进入地下党的节骨眼上 大家不用担心法律问题 我们只会支持GPT回复安全用药知识 开发者为我们的编辑小雨@amecandy_x https://t.co/wphIveh2Qq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 38,
+          "like_count": 500,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "Radical Leftist🚩/ LLM Engineer /  恋人 @whitecloud_ybw / 查药就上药物百科 https://t.co/BKMK49AAMH /  接受药物咨询，私信即可",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "whitecloud_ybw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 87,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 64,
+                "url": "https://t.co/BKMK49AAMH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2040315053006889205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5793,
+          "following_count": 2053,
+          "like_count": 26814,
+          "listed_count": 15,
+          "media_count": 1390,
+          "tweet_count": 9929
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

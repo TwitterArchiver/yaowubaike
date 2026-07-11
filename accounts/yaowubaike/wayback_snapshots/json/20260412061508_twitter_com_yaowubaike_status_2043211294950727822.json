@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2043211294950727822",
+    "created_at": "2026-04-12T06:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043211294950727822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/amecandy_x/status/2042949024421154900",
+          "start": 14,
+          "url": "https://t.co/hh24mXkww9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043211294950727822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042949024421154900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这一次 我们打算做点什么… https://t.co/hh24mXkww9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2043211294950727822",
+        "created_at": "2026-04-12T06:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043211294950727822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2042949024421154900",
+              "start": 14,
+              "url": "https://t.co/hh24mXkww9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043211294950727822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042949024421154900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一次 我们打算做点什么… https://t.co/hh24mXkww9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2042949024421154900",
+        "created_at": "2026-04-11T12:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042949024421154900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2042904489229787247",
+              "start": 114,
+              "url": "https://t.co/jH5HHvLjjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042949024421154900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【药百GPT·零】\n\n药圈正在经历一场前所未有的寒冬。\n\n2026年4月11日，沈阳发布管控通知：含右美沙芬复方制剂和普瑞巴林不得网络零售，不得拆零销售，普瑞巴林不得使用远程电子处方。在此之前，云南、新疆、深圳已陆续收紧管制。\n\n网购愈美片的oder们开始被上门——美团、淘宝、拼多多全都在监控范围。做笔录、验尿、验头发，然后就是行政处罚和社区戒毒。\n\n获取渠道在急剧收窄，信息源在被切断，恐慌在蔓延。\n\n更让人心痛的是：药师爱德华和沐雨先后离去。那些曾经为这个社群提供知识、关怀和方向的声音，正在一个接一个地消失。\n\n这不是第一次寒冬，也不会是最后一次。\n\n但这一次，我们决定做点什么。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12756,
+          "like_count": 116,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042904489229787247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【药百GPT·零】\n\n药圈正在经历一场前所未有的寒冬。\n\n2026年4月11日，沈阳发布管控通知：含右美沙芬复方制剂和普瑞巴林不得网络零售，不得拆零销售，普瑞巴林不得使用远程电子处方。在此之前，云南、新疆、深圳已陆续收紧管制。 https://t.co/jH5HHvLjjP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 109,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3339,
+          "following_count": 41,
+          "like_count": 532,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 2073,
+          "like_count": 26907,
+          "listed_count": 15,
+          "media_count": 1402,
+          "tweet_count": 9983
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

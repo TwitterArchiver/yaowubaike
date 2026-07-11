@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2047001446558871556",
+    "created_at": "2026-04-23T03:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047159771414012097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995538224534683648",
+          "start": 0,
+          "username": "Kagurananaqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047159771414012097",
+    "in_reply_to_user_id": "1995538224534683648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047027432574923052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagurananaqwq 精神效果比较强烈一些，会出现幻听幻觉，焦虑偏执之类的，虽然消退的算比较快，但是如果不禁社会危害性可能比较大，毕竟你随便去个酒吧看看那些精神小伙啥的喝个酒都能那样了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2047001446558871556",
+        "created_at": "2026-04-23T03:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047159771414012097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995538224534683648",
+              "start": 0,
+              "username": "Kagurananaqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047159771414012097",
+        "in_reply_to_user_id": "1995538224534683648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047027432574923052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagurananaqwq 精神效果比较强烈一些，会出现幻听幻觉，焦虑偏执之类的，虽然消退的算比较快，但是如果不禁社会危害性可能比较大，毕竟你随便去个酒吧看看那些精神小伙啥的喝个酒都能那样了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995538224534683648",
+        "conversation_id": "2047001446558871556",
+        "created_at": "2026-04-22T18:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047027432574923052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047027432574923052",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047017794060030201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 那老中禁麻的意义在哪（？不如禁烟不禁麻🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 33,
+          "like_count": 556,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T17:00:56.000Z",
+        "description": "女儿@mianTWT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "mianTWT"
+              }
+            ]
+          }
+        },
+        "id": "1995538224534683648",
+        "location": "Tokyo-to, Japan",
+        "name": "神楽七奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030007113507057664/kyWZeb95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 93,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 435
+        },
+        "username": "Kagurananaqwq",
+        "verified": false
+      }
+    ]
+  }
+}

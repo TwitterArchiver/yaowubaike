@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1967080081333121448",
+    "created_at": "2025-09-14T04:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967080081333121448"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "药物百科RC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 122,
+          "id": "1866458229527764992",
+          "start": 109,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 138,
+          "id": "1833270666629611520",
+          "start": 123,
+          "username": "Artemis121xuan"
+        },
+        {
+          "end": 149,
+          "id": "1339446920511569920",
+          "start": 139,
+          "username": "shudesu00"
+        },
+        {
+          "end": 164,
+          "id": "1837114188046684161",
+          "start": 150,
+          "username": "winterfruit_1"
+        },
+        {
+          "end": 179,
+          "id": "1390652924481527810",
+          "start": 165,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "yaowubaikerc.ca/store/moon_dust",
+          "end": 57,
+          "expanded_url": "https://yaowubaikerc.ca/store/moon_dust",
+          "start": 34,
+          "url": "https://t.co/350RHyJwlX"
+        },
+        {
+          "description": "You can view and join @yaowubaikeca right away.",
+          "display_url": "t.me/yaowubaikeca",
+          "end": 98,
+          "expanded_url": "https://t.me/yaowubaikeca",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 75,
+          "status": 200,
+          "title": "药物百科官方交流群",
+          "unwound_url": "https://t.me/yaowubaikeca",
+          "url": "https://t.co/GSdrJ7Hp5s"
+        },
+        {
+          "display_url": "x.com/yaowubaike/sta…",
+          "end": 214,
+          "expanded_url": "https://twitter.com/yaowubaike/status/1965996323834048562",
+          "start": 191,
+          "url": "https://t.co/82mNrxSNVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967080081333121448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965996323834048562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#药物百科RC\n「月尘LunaDust🌙」正式发售😋\n\n详细介绍见：https://t.co/350RHyJwlX\n\n购买渠道：药物百科官推/tg群组https://t.co/GSdrJ7Hp5s\n\n以下公布开奖名单：@Citrus_amara @Artemis121xuan @shudesu00 @winterfruit_1 @zqtlovekris99 \n宝宝们私信领取喔♡ https://t.co/82mNrxSNVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965996254552530944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ifLV5aIAAFNIV.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965996254573522944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ifLV-acAATjRS.jpg",
+        "width": 642
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965996254565117956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ifLV8aMAQgWH7.jpg",
+        "width": 534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965996254640615427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ifLWOaMAMWHoo.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1967080081333121448",
+        "created_at": "2025-09-14T04:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967080081333121448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "药物百科RC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 122,
+              "id": "1866458229527764992",
+              "start": 109,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 138,
+              "id": "1833270666629611520",
+              "start": 123,
+              "username": "Artemis121xuan"
+            },
+            {
+              "end": 149,
+              "id": "1339446920511569920",
+              "start": 139,
+              "username": "shudesu00"
+            },
+            {
+              "end": 164,
+              "id": "1837114188046684161",
+              "start": 150,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 179,
+              "id": "1390652924481527810",
+              "start": 165,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "yaowubaikerc.ca/store/moon_dust",
+              "end": 57,
+              "expanded_url": "https://yaowubaikerc.ca/store/moon_dust",
+              "start": 34,
+              "url": "https://t.co/350RHyJwlX"
+            },
+            {
+              "description": "You can view and join @yaowubaikeca right away.",
+              "display_url": "t.me/yaowubaikeca",
+              "end": 98,
+              "expanded_url": "https://t.me/yaowubaikeca",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967080085577670656/NO915gBz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "药物百科官方交流群",
+              "unwound_url": "https://t.me/yaowubaikeca",
+              "url": "https://t.co/GSdrJ7Hp5s"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/yaowubaike/status/1965996323834048562",
+              "start": 191,
+              "url": "https://t.co/82mNrxSNVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967080081333121448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965996323834048562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#药物百科RC\n「月尘LunaDust🌙」正式发售😋\n\n详细介绍见：https://t.co/350RHyJwlX\n\n购买渠道：药物百科官推/tg群组https://t.co/GSdrJ7Hp5s\n\n以下公布开奖名单：@Citrus_amara @Artemis121xuan @shudesu00 @winterfruit_1 @zqtlovekris99 \n宝宝们私信领取喔♡ https://t.co/82mNrxSNVu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965996254552530944",
+            "3_1965996254573522944",
+            "3_1965996254565117956",
+            "3_1965996254640615427"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965996323834048562",
+        "created_at": "2025-09-11T04:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965996323834048562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "药物百科RC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVOn8eFURR",
+              "end": 168,
+              "expanded_url": "https://x.com/yaowubaike/status/1965996323834048562/photo/1",
+              "media_key": "3_1965996254552530944",
+              "start": 145,
+              "url": "https://t.co/BVOn8eFURR"
+            },
+            {
+              "display_url": "pic.x.com/BVOn8eFURR",
+              "end": 168,
+              "expanded_url": "https://x.com/yaowubaike/status/1965996323834048562/photo/1",
+              "media_key": "3_1965996254573522944",
+              "start": 145,
+              "url": "https://t.co/BVOn8eFURR"
+            },
+            {
+              "display_url": "pic.x.com/BVOn8eFURR",
+              "end": 168,
+              "expanded_url": "https://x.com/yaowubaike/status/1965996323834048562/photo/1",
+              "media_key": "3_1965996254565117956",
+              "start": 145,
+              "url": "https://t.co/BVOn8eFURR"
+            },
+            {
+              "display_url": "pic.x.com/BVOn8eFURR",
+              "end": 168,
+              "expanded_url": "https://x.com/yaowubaike/status/1965996323834048562/photo/1",
+              "media_key": "3_1965996254640615427",
+              "start": 145,
+              "url": "https://t.co/BVOn8eFURR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965996323834048562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 35381,
+          "like_count": 140,
+          "quote_count": 5,
+          "reply_count": 111,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "#药物百科RC\n 🩵真正的精品神药🩵\n全新自研合法解离剂「月尘LunaDust🌙」正式上架\n\n效果简述:强解离，欣快，内幻，外幻，强抗抑郁，暂无明显副作用和风险，不恶心不头疼不腹痛😋\n\n附上已有内测报告两份\n\n现发起抽奖，抽5人送出1t\n\n关注+转发+点赞+评论参与活动，100转推开奖🥰 https://t.co/BVOn8eFURR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由药物百科多位编辑共同运营 我们会是最好的药物wiki 有报告欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1965996323834048562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 23,
+          "like_count": 43,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 426,
+          "like_count": 6583,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2552
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T22:26:15.000Z",
+        "description": "小萱｜ENTP｜brat｜163/40｜双相｜od｜白傷｜ed｜小女孩互fo歡迎喵｜地雷糸｜愛我請打錢｜\n🚪52",
+        "id": "1833270666629611520",
+        "location": "天堂",
+        "name": "Artemis",
+        "pinned_tweet_id": "1879373494875812139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932828641777549312/_b9Heipt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 161,
+          "like_count": 3180,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 585
+        },
+        "username": "Artemis121xuan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx_hrt中_They/it_习惯性点赞_过量_aspd_愛🩵＠CoFfffEeeeE1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 2230,
+          "like_count": 119999,
+          "listed_count": 7,
+          "media_count": 1650,
+          "tweet_count": 17554
+        },
+        "username": "shudesu00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 468,
+          "like_count": 11532,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 3626
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1966489378747973851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10061,
+          "following_count": 1021,
+          "like_count": 21575,
+          "listed_count": 10,
+          "media_count": 3511,
+          "tweet_count": 22220
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

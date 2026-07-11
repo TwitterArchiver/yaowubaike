@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977931630229823488"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1977931633358676147",
+    "created_at": "2025-10-14T02:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T03:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977931633358676147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cE0quv9Xjx",
+          "end": 63,
+          "expanded_url": "https://x.com/yaowubaike/status/1977931633358676147/photo/1",
+          "media_key": "3_1977931630229823488",
+          "start": 40,
+          "url": "https://t.co/cE0quv9Xjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977931633358676147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咱们精神病也是生在好时候了，吃点药就行了，搁以前咱们是要被捅眼珠子切除脑额叶的 https://t.co/cE0quv9Xjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_1977931630229823488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MGVpHboAAN-tS.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977931630229823488"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1977931633358676147",
+        "created_at": "2025-10-14T02:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977931633358676147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cE0quv9Xjx",
+              "end": 63,
+              "expanded_url": "https://x.com/yaowubaike/status/1977931633358676147/photo/1",
+              "media_key": "3_1977931630229823488",
+              "start": 40,
+              "url": "https://t.co/cE0quv9Xjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977931633358676147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱们精神病也是生在好时候了，吃点药就行了，搁以前咱们是要被捅眼珠子切除脑额叶的 https://t.co/cE0quv9Xjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 26,
+          "like_count": 103,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

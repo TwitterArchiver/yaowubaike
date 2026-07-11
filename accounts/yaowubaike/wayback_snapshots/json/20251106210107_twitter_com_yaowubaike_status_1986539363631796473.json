@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986539355738152962"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1986539363631796473",
+    "created_at": "2025-11-06T21:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T22:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986539363631796473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1886054681635704832",
+          "start": 12,
+          "username": "Manglesuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JEh9Pbu4z8",
+          "end": 182,
+          "expanded_url": "https://x.com/yaowubaike/status/1986539363631796473/photo/1",
+          "media_key": "3_1986539355738152962",
+          "start": 159,
+          "url": "https://t.co/JEh9Pbu4z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986539363631796473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药物百科副wiki主小鸮@Manglesuki已开始准备测试异丙斯卡林50mg的的效果，品牌罗恩，🌵麦斯卡林衍生物，会导致剧烈腹痛，我会测试前吃点胃药喝牛奶形成保护层的，测试时会发推并且提供详细报告，敬请期待，为新精神活性物质探索而献身，药物百科义不容辞！大家请关注我！\n\nby.OnyxxOwl（副wiki主小鸮） https://t.co/JEh9Pbu4z8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1986539355738152962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5GbBNcbIAIMwkd.jpg",
+        "width": 1708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986539355738152962"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1986539363631796473",
+        "created_at": "2025-11-06T21:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T22:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986539363631796473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1886054681635704832",
+              "start": 12,
+              "username": "Manglesuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEh9Pbu4z8",
+              "end": 182,
+              "expanded_url": "https://x.com/yaowubaike/status/1986539363631796473/photo/1",
+              "media_key": "3_1986539355738152962",
+              "start": 159,
+              "url": "https://t.co/JEh9Pbu4z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986539363631796473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科副wiki主小鸮@Manglesuki已开始准备测试异丙斯卡林50mg的的效果，品牌罗恩，🌵麦斯卡林衍生物，会导致剧烈腹痛，我会测试前吃点胃药喝牛奶形成保护层的，测试时会发推并且提供详细报告，敬请期待，为新精神活性物质探索而献身，药物百科义不容辞！大家请关注我！\n\nby.OnyxxOwl（副wiki主小鸮） https://t.co/JEh9Pbu4z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱:https://t.co/LsyPFMc5Pb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 104,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 81,
+                "url": "https://t.co/LsyPFMc5Pb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 31,
+          "like_count": 242,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 64,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

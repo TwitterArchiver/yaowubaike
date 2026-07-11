@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1975732074398294022"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1975732096351297934",
+    "created_at": "2025-10-08T01:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T02:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975732096351297934"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "牢风TV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mb8Utc8m8S",
+          "end": 36,
+          "expanded_url": "https://x.com/yaowubaike/status/1975732096351297934/video/1",
+          "media_key": "7_1975732074398294022",
+          "start": 13,
+          "url": "https://t.co/Mb8Utc8m8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975732096351297934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#牢风TV 挖骆驼蓬子😋 https://t.co/Mb8Utc8m8S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8500,
+        "height": 720,
+        "media_key": "7_1975732074398294022",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975732074398294022/pu/img/67m6Q-p8RRCw49_2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975732074398294022/pu/vid/avc1/320x320/2jEIxxy0ZA77658U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975732074398294022/pu/vid/avc1/540x540/TceUNmxKvdfn5BdF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975732074398294022/pu/vid/avc1/720x720/N2WHajucqoJ4vjVs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975732074398294022/pu/pl/y4ZOZFFfPerltMSP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975732074398294022"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1975732096351297934",
+        "created_at": "2025-10-08T01:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T02:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975732096351297934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "牢风TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mb8Utc8m8S",
+              "end": 36,
+              "expanded_url": "https://x.com/yaowubaike/status/1975732096351297934/video/1",
+              "media_key": "7_1975732074398294022",
+              "start": 13,
+              "url": "https://t.co/Mb8Utc8m8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975732096351297934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#牢风TV 挖骆驼蓬子😋 https://t.co/Mb8Utc8m8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品已停止出售，未收到货的请私信获取运单号 | 不曾出售过任何违禁列管物质无需担忧 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1970754565738807525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 24,
+          "like_count": 82,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

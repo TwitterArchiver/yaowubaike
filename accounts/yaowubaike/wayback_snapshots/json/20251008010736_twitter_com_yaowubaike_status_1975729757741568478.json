@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1975405102597890160",
+    "created_at": "2025-10-08T01:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T02:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975729757741568478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "odday_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975729757741568478",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975405102597890160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odday_official 卖便宜了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_1975405100249018368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2oMePfWcAAbpp3.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1975405102597890160",
+        "created_at": "2025-10-08T01:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T02:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975729757741568478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "odday_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975729757741568478",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975405102597890160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odday_official 卖便宜了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975405100249018368"
+          ]
+        },
+        "author_id": "1946240021696040961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1975405102597890160",
+        "created_at": "2025-10-07T03:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975405102597890160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "酒石酸唑吡坦片"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "sns"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "药代"
+            },
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "化学极乐百科RC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2FQSeIJfL",
+              "end": 91,
+              "expanded_url": "https://x.com/odday_official/status/1975405102597890160/photo/1",
+              "media_key": "3_1975405100249018368",
+              "start": 68,
+              "url": "https://t.co/s2FQSeIJfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975405102597890160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2647,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "酒石酸唑吡坦片\n105块钱一盒 收USDT 15u\n中秋国庆期间两盒以上打8折\n#酒石酸唑吡坦片 #sns #药代 #化学极乐百科RC https://t.co/s2FQSeIJfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品已停止出售，未收到货的请私信获取运单号 | 不曾出售过任何违禁列管物质无需担忧 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1970754565738807525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 24,
+          "like_count": 82,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "官方多人科普账号 药物代购 化学试剂代购 策划药销售\n 娱乐账号:@N_N_DPT 化学极乐百科:https://t.co/E7w1cH91nR \ntg客服：https://t.co/Z2nOOPMtOA\noverdoseに集中しています............",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 33,
+                "username": "N_N_DPT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 72,
+                "expanded_url": "http://overdose.day",
+                "start": 49,
+                "url": "https://t.co/E7w1cH91nR"
+              },
+              {
+                "display_url": "t.me/odday_official",
+                "end": 102,
+                "expanded_url": "http://t.me/odday_official",
+                "start": 79,
+                "url": "https://t.co/Z2nOOPMtOA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/E7w1cH91nR"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "天国",
+        "name": "✝️化学极乐百科✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971508000239001600/El1hEq_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 109,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/E7w1cH91nR",
+        "username": "odday_official",
+        "verified": false
+      }
+    ]
+  }
+}

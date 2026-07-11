@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986816094783643648"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1986816102022963229",
+    "created_at": "2025-11-07T15:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T16:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986816102022963229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFNlOdKerK",
+          "end": 89,
+          "expanded_url": "https://x.com/yaowubaike/status/1986816102022963229/photo/1",
+          "media_key": "3_1986816094783643648",
+          "start": 66,
+          "url": "https://t.co/DFNlOdKerK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986816102022963229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有理解你什么意思，很多药的药片都很小啊，Xanax，右佐匹克隆，劳拉，不都挺小，其他服用的方法…切开服用？或者碾碎装胶囊或者鼻吸 https://t.co/DFNlOdKerK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_1986816094783643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KWtiuboAAT864.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986816094783643648"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1986816102022963229",
+        "created_at": "2025-11-07T15:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986816102022963229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFNlOdKerK",
+              "end": 89,
+              "expanded_url": "https://x.com/yaowubaike/status/1986816102022963229/photo/1",
+              "media_key": "3_1986816094783643648",
+              "start": 66,
+              "url": "https://t.co/DFNlOdKerK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986816102022963229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有理解你什么意思，很多药的药片都很小啊，Xanax，右佐匹克隆，劳拉，不都挺小，其他服用的方法…切开服用？或者碾碎装胶囊或者鼻吸 https://t.co/DFNlOdKerK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱:https://t.co/LsyPFMc5Pb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 104,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 81,
+                "url": "https://t.co/LsyPFMc5Pb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 31,
+          "like_count": 328,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

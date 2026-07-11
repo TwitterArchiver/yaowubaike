@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1974770369421803520"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1974770401969627512",
+    "created_at": "2025-10-05T09:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T10:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974770401969627512"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "牢风TV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k1ljDU9IoR",
+          "end": 45,
+          "expanded_url": "https://x.com/yaowubaike/status/1974770401969627512/video/1",
+          "media_key": "7_1974770369421803520",
+          "start": 22,
+          "url": "https://t.co/k1ljDU9IoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974770401969627512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#牢风TV oder这辈子要保护的三样东西 https://t.co/k1ljDU9IoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23642,
+        "height": 1280,
+        "media_key": "7_1974770369421803520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974770369421803520/pu/img/btrz-WdkejA-rAqE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974770369421803520/pu/vid/avc1/320x568/dbqutD8Mw0mY7xel.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974770369421803520/pu/vid/avc1/480x852/gS_mdgyibje-uDID.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974770369421803520/pu/vid/avc1/720x1280/G_V2Z7jbFwl-SpJT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974770369421803520/pu/pl/GQmoruIuLaU7sN_i.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974770369421803520"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1974770401969627512",
+        "created_at": "2025-10-05T09:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T10:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974770401969627512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "牢风TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1ljDU9IoR",
+              "end": 45,
+              "expanded_url": "https://x.com/yaowubaike/status/1974770401969627512/video/1",
+              "media_key": "7_1974770369421803520",
+              "start": 22,
+              "url": "https://t.co/k1ljDU9IoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974770401969627512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#牢风TV oder这辈子要保护的三样东西 https://t.co/k1ljDU9IoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品已停止出售，未收到货的请私信获取运单号 | 不曾出售过任何违禁列管物质无需担忧 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1970754565738807525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 23,
+          "like_count": 77,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

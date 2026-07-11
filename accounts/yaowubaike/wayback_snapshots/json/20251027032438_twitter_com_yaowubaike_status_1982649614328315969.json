@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982649579666366464"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1982649614328315969",
+    "created_at": "2025-10-27T03:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982649614328315969"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "牢风TV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0exAReo1xv",
+          "end": 62,
+          "expanded_url": "https://x.com/yaowubaike/status/1982649614328315969/video/1",
+          "media_key": "7_1982649579666366464",
+          "start": 39,
+          "url": "https://t.co/0exAReo1xv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982649614328315969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#牢风TV 笑着玩牢风的梗我不觉得是在消费他，能让大家铭记，我觉得他会开心的 https://t.co/0exAReo1xv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11733,
+        "height": 1280,
+        "media_key": "7_1982649579666366464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982649579666366464/pu/img/WrTPZxJTAKL7La7r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982649579666366464/pu/vid/avc1/320x568/nqdjcrxdupAo_MAX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982649579666366464/pu/vid/avc1/480x852/_6GqmgejbgLkdODh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982649579666366464/pu/vid/avc1/720x1280/1MX03Yaam3lBrL2a.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982649579666366464/pu/pl/2EaUle4QGaZIoyVo.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982649579666366464"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1982649614328315969",
+        "created_at": "2025-10-27T03:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982649614328315969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "牢风TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0exAReo1xv",
+              "end": 62,
+              "expanded_url": "https://x.com/yaowubaike/status/1982649614328315969/video/1",
+              "media_key": "7_1982649579666366464",
+              "start": 39,
+              "url": "https://t.co/0exAReo1xv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982649614328315969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#牢风TV 笑着玩牢风的梗我不觉得是在消费他，能让大家铭记，我觉得他会开心的 https://t.co/0exAReo1xv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 29,
+          "like_count": 180,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

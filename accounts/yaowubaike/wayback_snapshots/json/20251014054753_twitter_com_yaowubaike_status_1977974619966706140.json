@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1977974592015921419",
+    "created_at": "2025-10-14T05:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T06:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977974619966706140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977974619966706140",
+    "in_reply_to_user_id": "1962425480612851712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977974592015921419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要圈之中我们大部分人都是以网络的身份为活动，这使得我们对对方的身份，目的，想法，性格一无所知，在现实生活中这种猜疑链会随着我们与对方的亲密接触而逐渐消除，但在网络中你根本无法确认对方是怎么样子的，这种猜疑链会无限叠加不可摧毁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1977974592015921419",
+        "created_at": "2025-10-14T05:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T06:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977974619966706140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977974619966706140",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977974592015921419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要圈之中我们大部分人都是以网络的身份为活动，这使得我们对对方的身份，目的，想法，性格一无所知，在现实生活中这种猜疑链会随着我们与对方的亲密接触而逐渐消除，但在网络中你根本无法确认对方是怎么样子的，这种猜疑链会无限叠加不可摧毁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1977974592015921419",
+        "created_at": "2025-10-14T05:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T06:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977974592015921419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977974592015921419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药圈其实就是一个巨大的黑暗森林，我们每个人都是在其中的猎人和猎物，药圈黑暗森林有几条不变的铁律\n1，在树冠之上阳光普照的地方是晶哥的地盘，无论你是什么理由在此之上都会被抹杀\n2，猜疑链"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | 商品暂停出售 | 不曾出售过任何违禁列管物质无需担忧 | 免费药物咨询｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 26,
+          "like_count": 107,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

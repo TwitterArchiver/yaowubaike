@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980946969959800832"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "1980946972799602836",
+    "created_at": "2025-10-22T10:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980946972799602836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z8FdI98AEF",
+          "end": 108,
+          "expanded_url": "https://x.com/yaowubaike/status/1980946972799602836/photo/1",
+          "media_key": "3_1980946969959800832",
+          "start": 85,
+          "url": "https://t.co/z8FdI98AEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980946972799602836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最适合od且最具性价比的普瑞巴林是睿鹤的150mg一盒42t的规格，喜思平与亚宝，龙赛特都无法比过睿鹤，这个看似包装像国内劣质仿制药的普瑞巴林拥有超强的药效与最低的价格 https://t.co/z8FdI98AEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1980946969959800832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G328xg9XIAA2nOI.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980946969959800832"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "1980946972799602836",
+        "created_at": "2025-10-22T10:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980946972799602836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8FdI98AEF",
+              "end": 108,
+              "expanded_url": "https://x.com/yaowubaike/status/1980946972799602836/photo/1",
+              "media_key": "3_1980946969959800832",
+              "start": 85,
+              "url": "https://t.co/z8FdI98AEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980946972799602836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最适合od且最具性价比的普瑞巴林是睿鹤的150mg一盒42t的规格，喜思平与亚宝，龙赛特都无法比过睿鹤，这个看似包装像国内劣质仿制药的普瑞巴林拥有超强的药效与最低的价格 https://t.co/z8FdI98AEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 30,
+          "like_count": 164,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

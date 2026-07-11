@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "1965260757563834653",
+    "created_at": "2025-09-09T03:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T04:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965260757563834653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "A VitePress site",
+          "display_url": "yaowubaike.ca",
+          "end": 64,
+          "expanded_url": "http://yaowubaike.ca",
+          "start": 41,
+          "status": 200,
+          "title": "Drug_artist",
+          "unwound_url": "https://yaowubaike.ca/",
+          "url": "https://t.co/8Yc9zBryck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965260757563834653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药物百科Mediwiki正式发布\n有什么不足之处还请大家指正\n我们会保持持续更新\nhttps://t.co/8Yc9zBryck"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1965260757563834653",
+        "created_at": "2025-09-09T03:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T04:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965260757563834653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A VitePress site",
+              "display_url": "yaowubaike.ca",
+              "end": 64,
+              "expanded_url": "http://yaowubaike.ca",
+              "start": 41,
+              "status": 200,
+              "title": "Drug_artist",
+              "unwound_url": "https://yaowubaike.ca/",
+              "url": "https://t.co/8Yc9zBryck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965260757563834653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科Mediwiki正式发布\n有什么不足之处还请大家指正\n我们会保持持续更新\nhttps://t.co/8Yc9zBryck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由wiki主和两位副wiki主共同运营 wiki主沐雨@drug_artist1副wiki主弦月@CY_Mystica/小猫@Drugs_Kitten 我们会是最好的药物wiki 有报告欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "CY_Mystica"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Drugs_Kitten"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1962741208578695500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 18,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}
