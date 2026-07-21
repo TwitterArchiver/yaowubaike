@@ -1,29 +1,39 @@
 {
-  "name": "药物百科",
+  "name": "药物百科Mediwiki",
   "username": "@yaowubaike",
-  "bio": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
-  "location": "Leave me alone",
-  "link": "yaowubaike.ca",
+  "bio": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://ngl.link/drug_artist2 |",
+  "location": "Xanax天国2mg市",
+  "link": "http://yaowubaike.ca",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2074700150166167980",
   "bio_entities": {
     "mentions": [
       {
-        "end": 52,
-        "start": 39,
-        "username": "drug_artist1"
+        "end": 47,
+        "start": 34,
+        "username": "drug_artist2"
       },
       {
-        "end": 71,
-        "start": 60,
-        "username": "CY_Mystica"
+        "end": 80,
+        "start": 64,
+        "username": "yng014522566684"
       },
       {
-        "end": 87,
-        "start": 74,
-        "username": "Drugs_Kitten"
+        "end": 100,
+        "start": 89,
+        "username": "Manglesuki"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "ngl.link/drug_artist2",
+        "end": 137,
+        "expanded_url": "https://ngl.link/drug_artist2",
+        "start": 114,
+        "url": "https://t.co/INTOuR03h5"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg"
 }
