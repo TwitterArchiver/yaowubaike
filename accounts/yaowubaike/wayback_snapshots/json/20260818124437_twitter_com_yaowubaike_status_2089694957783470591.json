@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2089694957783470591",
+    "created_at": "2026-08-18T12:44:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089694957783470591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        },
+        {
+          "end": 79,
+          "id": "357176113",
+          "start": 68,
+          "username": "soobin4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089694957783470591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089694815806271598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 永夜安港【特殊空投贴】🎁！\n明天就是七夕节了！永夜安港专开相亲角环节！\n在评论展示你自己的全部，依旧是扎鸡叔 @soobin4869 抽取幸运观众！并且如果此评论区【脱单】，前三对新情侣各送三份扎鸡叔小礼物！希望每个人都能找到自己的爱！🥹小编Robby…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64033,
+        "height": 1440,
+        "media_key": "13_2089694346488799232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089694346488799232/img/rzAALhaoSfdOZ-eA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089694346488799232/pl/D2ejc4tAjnKYBAKh.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089694346488799232/vid/avc1/1280x720/OzcXQUQ_W3L83nJR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089694346488799232/vid/avc1/640x360/icJxqirsHADV9cnJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089694346488799232/vid/avc1/2560x1440/jdubFaIGGBTrKfCF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089694346488799232/vid/avc1/480x270/U8jmYtAjS0uTfpD7.mp4"
+          }
+        ],
+        "width": 2560
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2089694727977443329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAWSI4aIAE6zj_.jpg",
+        "width": 2992
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2089694789780508672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAWVvHaEAAyLHj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2089694957783470591",
+        "created_at": "2026-08-18T12:44:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089694957783470591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            },
+            {
+              "end": 79,
+              "id": "357176113",
+              "start": 68,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089694957783470591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089694815806271598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 永夜安港【特殊空投贴】🎁！\n明天就是七夕节了！永夜安港专开相亲角环节！\n在评论展示你自己的全部，依旧是扎鸡叔 @soobin4869 抽取幸运观众！并且如果此评论区【脱单】，前三对新情侣各送三份扎鸡叔小礼物！希望每个人都能找到自己的爱！🥹小编Robby…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089694346488799232",
+            "3_2089694727977443329",
+            "3_2089694789780508672"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089694815806271598",
+        "created_at": "2026-08-18T12:44:03.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089694815806271598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "357176113",
+              "start": 55,
+              "username": "soobin4869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJUTrFLy7u",
+              "end": 173,
+              "expanded_url": "https://x.com/pr80net/status/2089694815806271598/video/1",
+              "media_key": "13_2089694346488799232",
+              "start": 150,
+              "url": "https://t.co/iJUTrFLy7u"
+            },
+            {
+              "display_url": "pic.x.com/iJUTrFLy7u",
+              "end": 173,
+              "expanded_url": "https://x.com/pr80net/status/2089694815806271598/video/1",
+              "media_key": "3_2089694727977443329",
+              "start": 150,
+              "url": "https://t.co/iJUTrFLy7u"
+            },
+            {
+              "display_url": "pic.x.com/iJUTrFLy7u",
+              "end": 173,
+              "expanded_url": "https://x.com/pr80net/status/2089694815806271598/video/1",
+              "media_key": "3_2089694789780508672",
+              "start": 150,
+              "url": "https://t.co/iJUTrFLy7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089694815806271598",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089694346488799232"
+          },
+          {
+            "media_key": "3_2089694727977443329"
+          },
+          {
+            "media_key": "3_2089694789780508672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港【特殊空投贴】🎁！\n明天就是七夕节了！永夜安港专开相亲角环节！\n在评论展示你自己的全部，依旧是扎鸡叔 @soobin4869 抽取幸运观众！并且如果此评论区【脱单】，前三对新情侣各送三份扎鸡叔小礼物！希望每个人都能找到自己的爱！🥹小编Robby在此许愿希望每位推友都可以不再孤独，得到真爱❤ https://t.co/iJUTrFLy7u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2089694957783470591",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 61,
+          "like_count": 842,
+          "listed_count": 8,
+          "media_count": 87,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089694815806271598",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 555,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n@ZakkysLab\nPR原粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089690684626522388",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

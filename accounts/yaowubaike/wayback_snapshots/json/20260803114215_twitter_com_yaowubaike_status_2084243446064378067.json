@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2079473247876440551",
+    "created_at": "2026-08-03T11:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084243446064378067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1961080629468028928",
+          "start": 0,
+          "username": "qikieye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084243446064378067",
+    "in_reply_to_user_id": "1961080629468028928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079473247876440551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikieye 放个我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2079473247876440551",
+        "created_at": "2026-08-03T11:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084243446064378067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1961080629468028928",
+              "start": 0,
+              "username": "qikieye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084243446064378067",
+        "in_reply_to_user_id": "1961080629468028928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079473247876440551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikieye 放个我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961080629468028928",
+        "conversation_id": "2079473247876440551",
+        "created_at": "2026-07-21T07:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079473247876440551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "jile.bid",
+              "end": 33,
+              "expanded_url": "https://jile.bid/",
+              "start": 10,
+              "status": 200,
+              "title": "极光实验室",
+              "unwound_url": "https://jile.bid/",
+              "url": "https://t.co/FEQnSUwz3S"
+            },
+            {
+              "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+              "display_url": "m.psychonautwiki.org",
+              "end": 57,
+              "expanded_url": "https://m.psychonautwiki.org/",
+              "start": 34,
+              "status": 200,
+              "title": "PsychonautWiki",
+              "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+              "url": "https://t.co/rkvkd9HaoW"
+            },
+            {
+              "description": "引言",
+              "display_url": "od-wiki.com",
+              "end": 81,
+              "expanded_url": "https://www.od-wiki.com/",
+              "start": 58,
+              "status": 200,
+              "title": "欢迎来到 od-wiki.com",
+              "unwound_url": "https://www.od-wiki.com/",
+              "url": "https://t.co/i5RH5sdgNW"
+            },
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 105,
+              "expanded_url": "https://freeodwiki.org/",
+              "start": 82,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/BchIC9WsGw"
+            },
+            {
+              "display_url": "zh.wikipedia.org",
+              "end": 129,
+              "expanded_url": "https://zh.wikipedia.org/",
+              "start": 106,
+              "status": 200,
+              "title": "维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5",
+              "url": "https://t.co/1ivdoOoY7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079473247876440551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 23144,
+          "like_count": 290,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "在你od前建议查阅\nhttps://t.co/FEQnSUwz3S\nhttps://t.co/rkvkd9HaoW\nhttps://t.co/i5RH5sdgNW\nhttps://t.co/BchIC9WsGw\nhttps://t.co/1ivdoOoY7z\n\n极乐至上，安全第一，前人留下的经验都是为了后人能有更好的体验，切勿辜负！\n\nNO叠量，NO乱搭，NO注射！！！\n\n（触犯提及网站安全请留言删帖）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5236,
+          "following_count": 58,
+          "like_count": 814,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T14:57:28.000Z",
+        "description": "Elysium, a life of ultimate bliss",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "http://jile.bid",
+                "start": 0,
+                "url": "https://t.co/bxJD99X3Ph"
+              }
+            ]
+          }
+        },
+        "id": "1961080629468028928",
+        "name": "qiki💊（rebirth）",
+        "pinned_tweet_id": "2079473247876440551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079631971156901888/VWis0ku3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 301,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/bxJD99X3Ph",
+        "username": "qikieye",
+        "verified": false
+      }
+    ]
+  }
+}

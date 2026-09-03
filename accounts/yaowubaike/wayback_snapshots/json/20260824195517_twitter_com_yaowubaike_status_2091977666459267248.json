@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091977647995981824",
+        "3_2091977653796601856",
+        "3_2091977660205613056"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2091977666459267248",
+    "created_at": "2026-08-24T19:55:17.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091977666459267248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBsg6xD6cy",
+          "end": 81,
+          "expanded_url": "https://x.com/yaowubaike/status/2091977666459267248/photo/1",
+          "media_key": "3_2091977647995981824",
+          "start": 58,
+          "url": "https://t.co/SBsg6xD6cy"
+        },
+        {
+          "display_url": "pic.x.com/SBsg6xD6cy",
+          "end": 81,
+          "expanded_url": "https://x.com/yaowubaike/status/2091977666459267248/photo/1",
+          "media_key": "3_2091977653796601856",
+          "start": 58,
+          "url": "https://t.co/SBsg6xD6cy"
+        },
+        {
+          "display_url": "pic.x.com/SBsg6xD6cy",
+          "end": 81,
+          "expanded_url": "https://x.com/yaowubaike/status/2091977666459267248/photo/1",
+          "media_key": "3_2091977660205613056",
+          "start": 58,
+          "url": "https://t.co/SBsg6xD6cy"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "07fefc42d1da90c0"
+    },
+    "id": "2091977666459267248",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091977647995981824"
+      },
+      {
+        "media_key": "3_2091977653796601856"
+      },
+      {
+        "media_key": "3_2091977660205613056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这只是沐雨为了下定决心拼命搞事业给自己下了个狠心而已\n注：以下为ai生成内容 假血浆涂抹 并非真实血腥伤口 请明鉴 https://t.co/SBsg6xD6cy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2091977647995981824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgylkrbkAAYUjM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2091977653796601856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgyl6SaAAAvlRx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2091977660205613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgymSKbwAATxrY.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Lao People's Democratic Republic",
+        "country_code": "LA",
+        "full_name": "Lao People's Democratic Republic",
+        "id": "07fefc42d1da90c0",
+        "name": "Lao People's Democratic Republic",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091977647995981824",
+            "3_2091977653796601856",
+            "3_2091977660205613056"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091977666459267248",
+        "created_at": "2026-08-24T19:55:17.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091977666459267248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBsg6xD6cy",
+              "end": 81,
+              "expanded_url": "https://x.com/yaowubaike/status/2091977666459267248/photo/1",
+              "media_key": "3_2091977647995981824",
+              "start": 58,
+              "url": "https://t.co/SBsg6xD6cy"
+            },
+            {
+              "display_url": "pic.x.com/SBsg6xD6cy",
+              "end": 81,
+              "expanded_url": "https://x.com/yaowubaike/status/2091977666459267248/photo/1",
+              "media_key": "3_2091977653796601856",
+              "start": 58,
+              "url": "https://t.co/SBsg6xD6cy"
+            },
+            {
+              "display_url": "pic.x.com/SBsg6xD6cy",
+              "end": 81,
+              "expanded_url": "https://x.com/yaowubaike/status/2091977666459267248/photo/1",
+              "media_key": "3_2091977660205613056",
+              "start": 58,
+              "url": "https://t.co/SBsg6xD6cy"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "2091977666459267248",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091977647995981824"
+          },
+          {
+            "media_key": "3_2091977653796601856"
+          },
+          {
+            "media_key": "3_2091977660205613056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这只是沐雨为了下定决心拼命搞事业给自己下了个狠心而已\n注：以下为ai生成内容 假血浆涂抹 并非真实血腥伤口 请明鉴 https://t.co/SBsg6xD6cy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2091977666459267248",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5443,
+          "following_count": 64,
+          "like_count": 866,
+          "listed_count": 8,
+          "media_count": 88,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

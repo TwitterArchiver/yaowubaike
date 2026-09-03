@@ -1,0 +1,738 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2086780515659735480",
+    "created_at": "2026-08-10T11:43:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086780515659735480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "764625853183619072",
+          "start": 3,
+          "username": "ODShopLove"
+        },
+        {
+          "end": 92,
+          "id": "1812019584326852608",
+          "start": 79,
+          "username": "Fishbone_go_"
+        },
+        {
+          "end": 105,
+          "id": "1670452601891229697",
+          "start": 93,
+          "username": "miya_Az1uya"
+        },
+        {
+          "end": 116,
+          "id": "1670941606013452288",
+          "start": 106,
+          "username": "kula_tear"
+        },
+        {
+          "end": 126,
+          "id": "2086056578520866816",
+          "start": 117,
+          "username": "mitiuvt3"
+        }
+      ],
+      "urls": [
+        {
+          "description": "工作时间：10:00~22:00 商务合作请私聊 不回闲聊 记者别来挨骂 只走U 生意往来请说明来意",
+          "display_url": "t.me/yyodshop",
+          "end": 55,
+          "expanded_url": "https://t.me/yyodshop",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2086775484264673280/W1yEntV0?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2086775484264673280/W1yEntV0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "夜一",
+          "unwound_url": "https://t.me/yyodshop",
+          "url": "https://t.co/eLmc54nliz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086780515659735480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086775869494923440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ODShopLove: 开奖条件已达成，请中奖者tg私聊https://t.co/eLmc54nliz 并附上自己X用户界面截图领奖。\n中奖者名单：\n@Fishbone_go_\n@miya_Az1uya\n@kula_tear\n@mitiuvt3\n@icantenjoyu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 50,
+        "media_key": "3_2086774663708135424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW2gByb0AAuG56.png",
+        "width": 128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2086780515659735480",
+        "created_at": "2026-08-10T11:43:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086780515659735480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "764625853183619072",
+              "start": 3,
+              "username": "ODShopLove"
+            },
+            {
+              "end": 92,
+              "id": "1812019584326852608",
+              "start": 79,
+              "username": "Fishbone_go_"
+            },
+            {
+              "end": 105,
+              "id": "1670452601891229697",
+              "start": 93,
+              "username": "miya_Az1uya"
+            },
+            {
+              "end": 116,
+              "id": "1670941606013452288",
+              "start": 106,
+              "username": "kula_tear"
+            },
+            {
+              "end": 126,
+              "id": "2086056578520866816",
+              "start": 117,
+              "username": "mitiuvt3"
+            }
+          ],
+          "urls": [
+            {
+              "description": "工作时间：10:00~22:00 商务合作请私聊 不回闲聊 记者别来挨骂 只走U 生意往来请说明来意",
+              "display_url": "t.me/yyodshop",
+              "end": 55,
+              "expanded_url": "https://t.me/yyodshop",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2086775484264673280/W1yEntV0?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086775484264673280/W1yEntV0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "夜一",
+              "unwound_url": "https://t.me/yyodshop",
+              "url": "https://t.co/eLmc54nliz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086780515659735480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086775869494923440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ODShopLove: 开奖条件已达成，请中奖者tg私聊https://t.co/eLmc54nliz 并附上自己X用户界面截图领奖。\n中奖者名单：\n@Fishbone_go_\n@miya_Az1uya\n@kula_tear\n@mitiuvt3\n@icantenjoyu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086774663708135424"
+          ]
+        },
+        "author_id": "764625853183619072",
+        "conversation_id": "2086775869494923440",
+        "created_at": "2026-08-10T11:25:12.000Z",
+        "display_text_range": [
+          0,
+          239
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:23:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086775481471214030",
+          "2086775869494923440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 76,
+              "id": "1812019584326852608",
+              "start": 63,
+              "username": "Fishbone_go_"
+            },
+            {
+              "end": 89,
+              "id": "1670452601891229697",
+              "start": 77,
+              "username": "miya_Az1uya"
+            },
+            {
+              "end": 100,
+              "id": "1670941606013452288",
+              "start": 90,
+              "username": "kula_tear"
+            },
+            {
+              "end": 110,
+              "id": "2086056578520866816",
+              "start": 101,
+              "username": "mitiuvt3"
+            },
+            {
+              "end": 127,
+              "id": "2030181973638139904",
+              "start": 111,
+              "username": "icantenjoyurluv"
+            },
+            {
+              "end": 141,
+              "id": "1447781774914830341",
+              "start": 128,
+              "username": "haruyuki0421"
+            },
+            {
+              "end": 154,
+              "id": "1962559772143820803",
+              "start": 142,
+              "username": "noelvlcek99"
+            },
+            {
+              "end": 168,
+              "id": "2066108983178579968",
+              "start": 155,
+              "username": "AkiraTT_chan"
+            },
+            {
+              "end": 178,
+              "id": "1771182467128635392",
+              "start": 169,
+              "username": "PP_Konig"
+            },
+            {
+              "end": 188,
+              "id": "2047425753227333632",
+              "start": 179,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 200,
+              "id": "1681909912727871488",
+              "start": 189,
+              "username": "Lamiyu_114"
+            },
+            {
+              "end": 216,
+              "id": "1854148427501953024",
+              "start": 201,
+              "username": "MysticSummerNE"
+            },
+            {
+              "end": 228,
+              "id": "1795386529323626496",
+              "start": 217,
+              "username": "Nmslwcsndm"
+            },
+            {
+              "end": 239,
+              "id": "2076697224931954689",
+              "start": 229,
+              "username": "ksksluoa2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "工作时间：10:00~22:00 商务合作请私聊 不回闲聊 记者别来挨骂 只走U 生意往来请说明来意",
+              "display_url": "t.me/yyodshop",
+              "end": 39,
+              "expanded_url": "https://t.me/yyodshop",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2086775484264673280/W1yEntV0?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086775484264673280/W1yEntV0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "夜一",
+              "unwound_url": "https://t.me/yyodshop",
+              "url": "https://t.co/eLmc54nliz"
+            },
+            {
+              "display_url": "pic.x.com/H4vAH5Twwc",
+              "end": 263,
+              "expanded_url": "https://x.com/ODShopLove/status/2086775869494923440/photo/1",
+              "media_key": "3_2086774663708135424",
+              "start": 240,
+              "url": "https://t.co/H4vAH5Twwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086775869494923440",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086774663708135424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 76,
+                "id": "1812019584326852608",
+                "start": 63,
+                "username": "Fishbone_go_"
+              },
+              {
+                "end": 89,
+                "id": "1670452601891229697",
+                "start": 77,
+                "username": "miya_Az1uya"
+              },
+              {
+                "end": 100,
+                "id": "1670941606013452288",
+                "start": 90,
+                "username": "kula_tear"
+              },
+              {
+                "end": 110,
+                "id": "2086056578520866816",
+                "start": 101,
+                "username": "mitiuvt3"
+              },
+              {
+                "end": 127,
+                "id": "2030181973638139904",
+                "start": 111,
+                "username": "icantenjoyurluv"
+              },
+              {
+                "end": 141,
+                "id": "1447781774914830341",
+                "start": 128,
+                "username": "HaruYuki0421"
+              },
+              {
+                "end": 154,
+                "id": "1962559772143820803",
+                "start": 142,
+                "username": "noelvlcek99"
+              },
+              {
+                "end": 168,
+                "id": "2066108983178579968",
+                "start": 155,
+                "username": "AkiraTT_chan"
+              },
+              {
+                "end": 178,
+                "id": "1771182467128635392",
+                "start": 169,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 188,
+                "id": "2047425753227333632",
+                "start": 179,
+                "username": "YuganQwQ"
+              },
+              {
+                "end": 200,
+                "id": "1681909912727871488",
+                "start": 189,
+                "username": "Lamiyu_114"
+              },
+              {
+                "end": 216,
+                "id": "1854148427501953024",
+                "start": 201,
+                "username": "MysticSummerNE"
+              },
+              {
+                "end": 228,
+                "id": "1795386529323626496",
+                "start": 217,
+                "username": "Nmslwcsndm"
+              },
+              {
+                "end": 239,
+                "id": "2076697224931954689",
+                "start": 229,
+                "username": "ksksluoa2"
+              },
+              {
+                "end": 255,
+                "id": "1927618351733657600",
+                "start": 240,
+                "username": "BaiChuan202505"
+              },
+              {
+                "end": 265,
+                "id": "1847515885638213632",
+                "start": 256,
+                "username": "MUQImumu"
+              },
+              {
+                "end": 282,
+                "id": "1704469304077611008",
+                "start": 267,
+                "username": "jiaoyanboluooo"
+              },
+              {
+                "end": 293,
+                "id": "1642741514374635520",
+                "start": 283,
+                "username": "Para_m1ta"
+              },
+              {
+                "end": 310,
+                "id": "1933166589144395776",
+                "start": 294,
+                "username": "HyacinthWithYou"
+              },
+              {
+                "end": 327,
+                "id": "1863253705971392512",
+                "start": 311,
+                "username": "ECbkriegaQ24835"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yyodshop",
+                "end": 39,
+                "expanded_url": "https://t.me/yyodshop",
+                "start": 16,
+                "url": "https://t.co/OtBsAAN1ST"
+              }
+            ]
+          },
+          "text": "开奖条件已达成，请中奖者tg私聊https://t.co/OtBsAAN1ST 并附上自己X用户界面截图领奖。\n中奖者名单：\n@Fishbone_go_\n@miya_Az1uya\n@kula_tear\n@mitiuvt3\n@icantenjoyurluv\n@HaruYuki0421\n@noelvlcek99\n@AkiraTT_chan\n@PP_Konig\n@YuganQwQ\n@Lamiyu_114\n@MysticSummerNE\n@Nmslwcsndm\n@ksksluoa2\n@BaiChuan202505\n@MUQImumu \n@jiaoyanboluooo\n@Para_m1ta\n@HyacinthWithYou\n@ECbkriegaQ24835"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "开奖条件已达成，请中奖者tg私聊https://t.co/eLmc54nliz 并附上自己X用户界面截图领奖。\n中奖者名单：\n@Fishbone_go_\n@miya_Az1uya\n@kula_tear\n@mitiuvt3\n@icantenjoyurluv\n@HaruYuki0421\n@noelvlcek99\n@AkiraTT_chan\n@PP_Konig\n@YuganQwQ\n@Lamiyu_114\n@MysticSummerNE\n@Nmslwcsndm\n@ksksluoa2 https://t.co/H4vAH5Twwc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2086780515659735480",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5292,
+          "following_count": 59,
+          "like_count": 817,
+          "listed_count": 7,
+          "media_count": 85,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-14T00:53:04.000Z",
+        "description": "TG群组 https://t.co/JcosbyN8hE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/odshoplove",
+                "end": 28,
+                "expanded_url": "https://t.me/odshoplove",
+                "start": 5,
+                "url": "https://t.co/JcosbyN8hE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ODShop.love",
+                "end": 23,
+                "expanded_url": "http://ODShop.love",
+                "start": 0,
+                "url": "https://t.co/7jDgMresYt"
+              }
+            ]
+          }
+        },
+        "id": "764625853183619072",
+        "is_identity_verified": false,
+        "location": "梦境",
+        "most_recent_tweet_id": "2086775869494923440",
+        "name": "ODShop.love 愛是药片",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764625853183619072/1786113993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085739370976563200/rkYLp-2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 54,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/7jDgMresYt",
+        "username": "ODShopLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-13T07:02:50.000Z",
+        "description": "我是，人类？   呃，，给我打钱的才能骂我",
+        "id": "1812019584326852608",
+        "is_identity_verified": false,
+        "location": "你背后",
+        "most_recent_tweet_id": "2086496729575125435",
+        "name": "在海底腐烂的鱼刺",
+        "pinned_tweet_id": "2084139720515150149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812019584326852608/1784313322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040251597402370048/o3JDGa1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 829,
+          "like_count": 4958,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "Fishbone_go_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-18T15:25:17.000Z",
+        "description": "🚪200解锁课表/388闲聊开放pyq\n⚠️纯绿不聊黄无福利，过门不退",
+        "id": "1670452601891229697",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086492399149490613",
+        "name": "悲愤的玉子烧",
+        "pinned_tweet_id": "2034258509236453437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670452601891229697/1768913806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171398816362498/Ib2CstJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 128,
+          "like_count": 5791,
+          "listed_count": 8,
+          "media_count": 100,
+          "tweet_count": 2503
+        },
+        "url": "",
+        "username": "miya_Az1uya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-19T23:48:28.000Z",
+        "description": "",
+        "id": "1670941606013452288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086600042853605439",
+        "name": "小夜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670941606013452288/1785375540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082642034041769984/FeN6vrxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "kula_tear",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T11:47:51.000Z",
+        "description": "v:g3260570328",
+        "id": "2086056578520866816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086694678427214050",
+        "name": "miti",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086387726044246016/Dh8PN5c4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "mitiuvt3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

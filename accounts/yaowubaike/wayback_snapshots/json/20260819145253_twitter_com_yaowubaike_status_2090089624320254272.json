@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2090089624320254272",
+    "created_at": "2026-08-19T14:52:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090089624320254272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        },
+        {
+          "end": 50,
+          "id": "357176113",
+          "start": 39,
+          "username": "soobin4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090089624320254272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090074522661814401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 跪谢扎叔😭...永夜安港【千fo抽奖贴】\n依旧是来自@soobin4869 扎鸡叔的幸运空投，千fo扎鸡叔直接选出10位幸运观众，【转帖+评论】，收到过空投的po出你们的美照返图，没收到过空投的po出今天七夕的日常，永夜安港运营至今感谢大家的支持，也感…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2090073300290654208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFul8paUAASrvA.png",
+        "width": 501
+      },
+      {
+        "height": 405,
+        "media_key": "3_2090073403537739776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFur9Rb0AAWspl.png",
+        "width": 609
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2090073424442126336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFutLJbcAAV-a5.jpg",
+        "width": 2992
+      },
+      {
+        "duration_ms": 70433,
+        "height": 1440,
+        "media_key": "13_2090073623151456256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090073623151456256/img/fEOgdvpk0HbSqCDu.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090073623151456256/vid/avc1/2560x1440/zMv_4TdzfNjRDY5D.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090073623151456256/vid/avc1/480x270/g1Pqq6nF96DC-b_L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090073623151456256/vid/avc1/1280x720/9Yp-iiEmR91xyZnY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090073623151456256/vid/avc1/640x360/qx3jKZem6pUUmdpM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090073623151456256/pl/jA3YcFSxfo7XGRzA.m3u8"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2090089624320254272",
+        "created_at": "2026-08-19T14:52:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090089624320254272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            },
+            {
+              "end": 50,
+              "id": "357176113",
+              "start": 39,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090089624320254272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090074522661814401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 跪谢扎叔😭...永夜安港【千fo抽奖贴】\n依旧是来自@soobin4869 扎鸡叔的幸运空投，千fo扎鸡叔直接选出10位幸运观众，【转帖+评论】，收到过空投的po出你们的美照返图，没收到过空投的po出今天七夕的日常，永夜安港运营至今感谢大家的支持，也感…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090073300290654208",
+            "3_2090073403537739776",
+            "3_2090073424442126336",
+            "13_2090073623151456256"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090074522661814401",
+        "created_at": "2026-08-19T13:52:52.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090074522661814401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "357176113",
+              "start": 26,
+              "username": "soobin4869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhMTUvoRsU",
+              "end": 175,
+              "expanded_url": "https://x.com/pr80net/status/2090074522661814401/video/1",
+              "media_key": "3_2090073300290654208",
+              "start": 152,
+              "url": "https://t.co/lhMTUvoRsU"
+            },
+            {
+              "display_url": "pic.x.com/lhMTUvoRsU",
+              "end": 175,
+              "expanded_url": "https://x.com/pr80net/status/2090074522661814401/video/1",
+              "media_key": "3_2090073403537739776",
+              "start": 152,
+              "url": "https://t.co/lhMTUvoRsU"
+            },
+            {
+              "display_url": "pic.x.com/lhMTUvoRsU",
+              "end": 175,
+              "expanded_url": "https://x.com/pr80net/status/2090074522661814401/video/1",
+              "media_key": "3_2090073424442126336",
+              "start": 152,
+              "url": "https://t.co/lhMTUvoRsU"
+            },
+            {
+              "display_url": "pic.x.com/lhMTUvoRsU",
+              "end": 175,
+              "expanded_url": "https://x.com/pr80net/status/2090074522661814401/video/1",
+              "media_key": "13_2090073623151456256",
+              "start": 152,
+              "url": "https://t.co/lhMTUvoRsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090074522661814401",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090073300290654208"
+          },
+          {
+            "media_key": "3_2090073403537739776"
+          },
+          {
+            "media_key": "3_2090073424442126336"
+          },
+          {
+            "media_key": "13_2090073623151456256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 387,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "跪谢扎叔😭...永夜安港【千fo抽奖贴】\n依旧是来自@soobin4869 扎鸡叔的幸运空投，千fo扎鸡叔直接选出10位幸运观众，【转帖+评论】，收到过空投的po出你们的美照返图，没收到过空投的po出今天七夕的日常，永夜安港运营至今感谢大家的支持，也感谢扎鸡叔的支持🥹🥹祝各位永远要幸福，永远要得到陪伴 https://t.co/lhMTUvoRsU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2090089624320254272",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5380,
+          "following_count": 62,
+          "like_count": 846,
+          "listed_count": 8,
+          "media_count": 87,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090088899750359062",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 573,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090086787150692585",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 27,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

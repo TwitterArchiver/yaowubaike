@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2084178281419718974",
+    "created_at": "2026-08-03T07:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084178281419718974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ivan20221126/s…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/ivan20221126/status/2084161733556310517",
+          "start": 149,
+          "url": "https://t.co/WElPIZMBf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084178281419718974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084161733556310517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你要不要看看你在说什么\n典型纸上化学😅🤣\n离子键解离确实是毫秒级微观反应\n但固体/溶液想要发生反应前提是两种溶质充分混合接触\n拿微观解离速率\n直接等同于宏观剧烈反应？\n还有 只有持续大剂量、频繁服用\n或者本身肾功能受损才会导致高钠血症\n不要拿你的ai挑战我的专业🤣🤣\nai是会顺着你话说的宝宝☺️ https://t.co/WElPIZMBf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_2084161718658478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxuCm8bMAAFvr2.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2084161726652805120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxuDEua8AARVcE.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2084178281419718974",
+        "created_at": "2026-08-03T07:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084178281419718974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivan20221126/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/ivan20221126/status/2084161733556310517",
+              "start": 149,
+              "url": "https://t.co/WElPIZMBf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084178281419718974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084161733556310517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要不要看看你在说什么\n典型纸上化学😅🤣\n离子键解离确实是毫秒级微观反应\n但固体/溶液想要发生反应前提是两种溶质充分混合接触\n拿微观解离速率\n直接等同于宏观剧烈反应？\n还有 只有持续大剂量、频繁服用\n或者本身肾功能受损才会导致高钠血症\n不要拿你的ai挑战我的专业🤣🤣\nai是会顺着你话说的宝宝☺️ https://t.co/WElPIZMBf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084161718658478080",
+            "3_2084161726652805120"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2084161733556310517",
+        "created_at": "2026-08-03T06:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084161733556310517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MV436zrPSu",
+              "end": 53,
+              "expanded_url": "https://x.com/ivan20221126/status/2084161733556310517/photo/1",
+              "media_key": "3_2084161718658478080",
+              "start": 30,
+              "url": "https://t.co/MV436zrPSu"
+            },
+            {
+              "display_url": "pic.x.com/MV436zrPSu",
+              "end": 53,
+              "expanded_url": "https://x.com/ivan20221126/status/2084161733556310517/photo/1",
+              "media_key": "3_2084161726652805120",
+              "start": 30,
+              "url": "https://t.co/MV436zrPSu"
+            },
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2084093442381271344",
+              "start": 54,
+              "url": "https://t.co/HYuWwsepxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084161733556310517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084093442381271344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😹😹，这个。绯妮佈忒！很，好玩？搭配苏打粉！  高钠血症， https://t.co/MV436zrPSu https://t.co/HYuWwsepxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5225,
+          "following_count": 55,
+          "like_count": 793,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 157,
+          "like_count": 4541,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

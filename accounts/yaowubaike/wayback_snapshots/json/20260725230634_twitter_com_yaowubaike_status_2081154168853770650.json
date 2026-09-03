@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2081154168853770650",
+    "created_at": "2026-07-25T23:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081154168853770650"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2081154168853770650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "沐雨总结一下药物百科编辑组成员现在有：\n1. 弦月\n2. 沐雨 （创始人与wiki主）\n3.Rei  \n4. 玄鸮 （wiki主）\n5.420 \n6. 喹硫平\n7. 小猫\n 8. 德克萨斯\n 9. hachimi \n10.Lucy\n11. 小雨 （药百GPT技术员）\n12. 小番茄 \n13. Homer（小雨的朋友）\n 14. mikan（Krvy）\n15.小哑巴（技术员 下落未明）\n16.三崎比较特殊属于我们一起玩的好朋友\n17. Sakura 鸡哥释怀了 游离于我们之间\n18.张jian（失踪目前联系不上）\n19.林林 （偶尔回一下编辑组？）我以前的初恋 她说的谈过另一个药圈传奇就是我\n已去世成员：\n20. 爱德华 21. 凌雪 22. 春风  R.I.P.\n无关排名 这是编号\n\n0. 彻子 我最对不起的一位 我愿意为你做任何事情 我会有一天亲自到你面前向你道歉的……对不起"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沐雨总结一下药物百科编辑组成员现在有：\n1. 弦月\n2. 沐雨 （创始人与wiki主）\n3.Rei  \n4. 玄鸮 （wiki主）\n5.420 \n6. 喹硫平\n7. 小猫\n 8. 德克萨斯\n 9. hachimi \n10.Lucy\n11. 小雨 （药百GPT技术员）\n12. 小番茄 \n13. Homer（小雨的朋友）\n 14. mikan（Krvy）\n15.小哑巴（技术员 下落未明）"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2081154168853770650",
+        "created_at": "2026-07-25T23:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081154168853770650"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2081154168853770650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "沐雨总结一下药物百科编辑组成员现在有：\n1. 弦月\n2. 沐雨 （创始人与wiki主）\n3.Rei  \n4. 玄鸮 （wiki主）\n5.420 \n6. 喹硫平\n7. 小猫\n 8. 德克萨斯\n 9. hachimi \n10.Lucy\n11. 小雨 （药百GPT技术员）\n12. 小番茄 \n13. Homer（小雨的朋友）\n 14. mikan（Krvy）\n15.小哑巴（技术员 下落未明）\n16.三崎比较特殊属于我们一起玩的好朋友\n17. Sakura 鸡哥释怀了 游离于我们之间\n18.张jian（失踪目前联系不上）\n19.林林 （偶尔回一下编辑组？）我以前的初恋 她说的谈过另一个药圈传奇就是我\n已去世成员：\n20. 爱德华 21. 凌雪 22. 春风  R.I.P.\n无关排名 这是编号\n\n0. 彻子 我最对不起的一位 我愿意为你做任何事情 我会有一天亲自到你面前向你道歉的……对不起"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沐雨总结一下药物百科编辑组成员现在有：\n1. 弦月\n2. 沐雨 （创始人与wiki主）\n3.Rei  \n4. 玄鸮 （wiki主）\n5.420 \n6. 喹硫平\n7. 小猫\n 8. 德克萨斯\n 9. hachimi \n10.Lucy\n11. 小雨 （药百GPT技术员）\n12. 小番茄 \n13. Homer（小雨的朋友）\n 14. mikan（Krvy）\n15.小哑巴（技术员 下落未明）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5096,
+          "following_count": 55,
+          "like_count": 766,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true
+      }
+    ]
+  }
+}
