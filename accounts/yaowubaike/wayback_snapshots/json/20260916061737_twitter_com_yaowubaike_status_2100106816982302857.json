@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2099936514260291999",
+    "created_at": "2026-09-16T06:17:37.000Z",
+    "display_text_range": [
+      40,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100106816982302857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022874915012333568",
+          "start": 0,
+          "username": "liyfn130024"
+        },
+        {
+          "end": 24,
+          "id": "1124658845664653314",
+          "start": 13,
+          "username": "CY_Mystica"
+        },
+        {
+          "end": 39,
+          "id": "2073934453454614530",
+          "start": 25,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100106816982302857",
+    "in_reply_to_user_id": "2022874915012333568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100069076769161425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyfn130024 @CY_Mystica @dreamolly1997 同意 我是弱智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2099936514260291999",
+        "created_at": "2026-09-16T06:17:37.000Z",
+        "display_text_range": [
+          40,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100106816982302857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022874915012333568",
+              "start": 0,
+              "username": "liyfn130024"
+            },
+            {
+              "end": 24,
+              "id": "1124658845664653314",
+              "start": 13,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 39,
+              "id": "2073934453454614530",
+              "start": 25,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100106816982302857",
+        "in_reply_to_user_id": "2022874915012333568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100069076769161425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyfn130024 @CY_Mystica @dreamolly1997 同意 我是弱智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022874915012333568",
+        "conversation_id": "2099936514260291999",
+        "created_at": "2026-09-16T03:47:39.000Z",
+        "display_text_range": [
+          27,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100069076769161425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 26,
+              "id": "2073934453454614530",
+              "start": 12,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100069076769161425",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099936514260291999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica @dreamolly1997 但严格来讲 他智商应该比沐雨高 这人甚至考上了重点高中 只是磕药磕成傻逼了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2100106816982302857",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 65,
+          "like_count": 917,
+          "listed_count": 10,
+          "media_count": 89,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了｜可以叫我海绵 05 bi 重度睡眠障碍 双向 重焦 回避型",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100101779459563818",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 153,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2100037224389832793",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 289,
+          "like_count": 1940,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头          \n喜歡轉貼可愛的生物                       \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2100090115393745278",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 1102,
+          "like_count": 7526,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 6855
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

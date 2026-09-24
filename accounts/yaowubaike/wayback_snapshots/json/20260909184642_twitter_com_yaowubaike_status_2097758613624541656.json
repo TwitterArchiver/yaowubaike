@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2097321256521756949",
+    "created_at": "2026-09-09T18:46:42.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097758613624541656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "K1ku21_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097758613624541656",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097321256521756949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ku21_ 摸摸梨子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097321256521756949].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097321256521756949",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097321256521756949"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2097321256521756949",
+        "created_at": "2026-09-09T18:46:42.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097758613624541656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "K1ku21_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097758613624541656",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097321256521756949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ku21_ 摸摸梨子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2097758613624541656",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5645,
+          "following_count": 64,
+          "like_count": 904,
+          "listed_count": 8,
+          "media_count": 89,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推\n关注@Yesmynamehaer1 @MukugeOvO @Nijika_Dark2 @winterfruit_1 @tianxiao0502 @Akinoyo_desu谢谢喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Yesmynamehaer1"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "MukugeOvO"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Nijika_Dark2"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "tianxiao0502"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZTiV6"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "is_identity_verified": false,
+        "location": "天目山路305号",
+        "most_recent_tweet_id": "2097321043019059461",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726969617850286080/1759513143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088823027933093888/mRDdqdIk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 257,
+          "like_count": 25627,
+          "listed_count": 3,
+          "media_count": 704,
+          "tweet_count": 14184
+        },
+        "url": "https://t.co/5udd6ZTiV6",
+        "username": "K1ku21_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

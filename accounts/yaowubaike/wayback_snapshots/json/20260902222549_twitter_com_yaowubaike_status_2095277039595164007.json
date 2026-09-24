@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2095277039595164007",
+    "created_at": "2026-09-02T22:25:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T23:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095277039595164007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1464941699889696768",
+          "start": 3,
+          "username": "drugs_artists"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095277039595164007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095244161532502320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drugs_artists: 我们的面前是一片乌云\n但我们用我们的勇气去面对未知\n总有人要做第一个吃螃蟹的人\n我为什么不能是第一个呢？\n歌唱勇气的赞歌吧\n\n未知精神活性物质 仅有信息（碱）（兴奋与阿片样温暖）（源自荷兰）（味微苦）\n110mg测试 \n公子一同测试70mg…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095244146663669760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPNc0eawAAiKUx.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2095277039595164007",
+        "created_at": "2026-09-02T22:25:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T23:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095277039595164007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1464941699889696768",
+              "start": 3,
+              "username": "drugs_artists"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095277039595164007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095244161532502320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drugs_artists: 我们的面前是一片乌云\n但我们用我们的勇气去面对未知\n总有人要做第一个吃螃蟹的人\n我为什么不能是第一个呢？\n歌唱勇气的赞歌吧\n\n未知精神活性物质 仅有信息（碱）（兴奋与阿片样温暖）（源自荷兰）（味微苦）\n110mg测试 \n公子一同测试70mg…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095244146663669760"
+          ]
+        },
+        "author_id": "1464941699889696768",
+        "conversation_id": "2095244161532502320",
+        "created_at": "2026-09-02T20:15:10.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095244161532502320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 134,
+              "id": "1386670401422434304",
+              "start": 121,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNlpfUbqTK",
+              "end": 165,
+              "expanded_url": "https://x.com/drugs_artists/status/2095244161532502320/photo/1",
+              "media_key": "3_2095244146663669760",
+              "start": 142,
+              "url": "https://t.co/yNlpfUbqTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095244161532502320",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095244146663669760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们的面前是一片乌云\n但我们用我们的勇气去面对未知\n总有人要做第一个吃螃蟹的人\n我为什么不能是第一个呢？\n歌唱勇气的赞歌吧\n\n未知精神活性物质 仅有信息（碱）（兴奋与阿片样温暖）（源自荷兰）（味微苦）\n110mg测试 \n公子一同测试70mg @xx1012000456\n鼻腔粘膜测试 https://t.co/yNlpfUbqTK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2095277039595164007",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5532,
+          "following_count": 63,
+          "like_count": 867,
+          "listed_count": 8,
+          "media_count": 87,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-28T12:58:24.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!年号雨玄二年\n名人堂梦工厂RC-沐雨 零售策划药产品联系我的https://t.co/QsZVHyAmQG \n我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "qiyueqiye11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 119,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 96,
+                "url": "https://t.co/QsZVHyAmQG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/7EyvDSe3J6"
+              }
+            ]
+          }
+        },
+        "id": "1464941699889696768",
+        "is_identity_verified": false,
+        "location": "Xanax天国8mg自治区",
+        "most_recent_tweet_id": "2095253839897358505",
+        "name": "沐雨八世",
+        "pinned_tweet_id": "2093068227492651062",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464941699889696768/1787861084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093066704456953856/2BIY4fKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 56,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/7EyvDSe3J6",
+        "username": "drugs_artists",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

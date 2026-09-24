@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2084135231439692231",
+    "created_at": "2026-08-03T09:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084216180374753592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701997020469399552",
+          "start": 0,
+          "username": "gongzisama1"
+        },
+        {
+          "end": 27,
+          "id": "2014553095255293955",
+          "start": 13,
+          "username": "yixinbing2026"
+        },
+        {
+          "end": 41,
+          "id": "1989627406391635968",
+          "start": 28,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2084216180374753592",
+    "in_reply_to_user_id": "1701997020469399552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084199902045970848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongzisama1 @yixinbing2026 @drug_artist2 😡😡😡"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2084135231439692231",
+        "created_at": "2026-08-03T09:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084216180374753592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701997020469399552",
+              "start": 0,
+              "username": "gongzisama1"
+            },
+            {
+              "end": 27,
+              "id": "2014553095255293955",
+              "start": 13,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 41,
+              "id": "1989627406391635968",
+              "start": 28,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2084216180374753592",
+        "in_reply_to_user_id": "1701997020469399552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084199902045970848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongzisama1 @yixinbing2026 @drug_artist2 😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2084135231439692231",
+        "created_at": "2026-08-03T08:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084199902045970848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 28,
+              "id": "1989627406391635968",
+              "start": 15,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084199902045970848",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084168101793591376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @drug_artist2 太丢人了，赶紧领回家吧🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5227,
+          "following_count": 56,
+          "like_count": 806,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 205,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑/疑似躁狂出现\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 401,
+          "like_count": 5677,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 2302
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 56,
+          "like_count": 365,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2099872242679341107",
+    "created_at": "2026-09-15T14:45:31.000Z",
+    "display_text_range": [
+      0,
+      155
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:43:10.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099871653220229239",
+      "2099872242679341107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liyfn130024/st…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/liyfn130024/status/2098806885961060724",
+          "start": 156,
+          "url": "https://t.co/Bg8mqPTKoz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099872242679341107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "剧烈悲痛\n痛痛痛！！！！！！！！\n我的痛苦！啊啊啊\n药百编辑组里 特么死仨人了\n噢不对是俩人 群里还有着活生生头像\nedw的账号 小猫Mercy的账号\n\n悼念 今日头七\n已给你烧了纸钱 我不想对你\n生前的所作所为不要做评判哦\n\nMercy你特么属于那种吸着父母的钱系度的\n我靠 虽然我不讨厌毒虫\n但自己挣钱系度\n才是最好的毒虫"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098806885961060724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剧烈悲痛\n痛痛痛！！！！！！！！\n我的痛苦！啊啊啊\n药百编辑组里 特么死仨人了\n噢不对是俩人 群里还有着活生生头像\nedw的账号 小猫Mercy的账号\n\n悼念 今日头七\n已给你烧了纸钱 我不想对你\n生前的所作所为不要做评判哦\n\nMercy你特么属于那种吸着父母的钱系度的\n我靠 虽然我不讨厌毒虫\n但自己挣钱系度 https://t.co/Bg8mqPTKoz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2099871653220229239",
+        "created_at": "2026-09-15T14:43:10.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:43:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099871653220229239",
+          "2099872242679341107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2098806885961060724",
+              "start": 155,
+              "url": "https://t.co/Bg8mqPTKoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099871653220229239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098806885961060724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈悲痛\n痛痛痛！！！！！！！！\n我的痛苦！啊啊啊\n药百编辑组里 特么死仨人了\n噢不对是俩人 群里还有着活生生头像\nedw的账号 小猫Mercy的账号\n\n悼念 今日头七\n已给你烧了纸钱 我不想对你\n生前的所作所为不要做评判哦\n\nMercy你特么属于那种吸着父母的钱系度的\n我靠 虽然我不讨厌毒虫\n但我也是毒虫 https://t.co/Bg8mqPTKoz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2099872242679341107",
+        "created_at": "2026-09-15T14:45:31.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:43:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099871653220229239",
+          "2099872242679341107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2098806885961060724",
+              "start": 156,
+              "url": "https://t.co/Bg8mqPTKoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099872242679341107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "剧烈悲痛\n痛痛痛！！！！！！！！\n我的痛苦！啊啊啊\n药百编辑组里 特么死仨人了\n噢不对是俩人 群里还有着活生生头像\nedw的账号 小猫Mercy的账号\n\n悼念 今日头七\n已给你烧了纸钱 我不想对你\n生前的所作所为不要做评判哦\n\nMercy你特么属于那种吸着父母的钱系度的\n我靠 虽然我不讨厌毒虫\n但自己挣钱系度\n才是最好的毒虫"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098806885961060724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈悲痛\n痛痛痛！！！！！！！！\n我的痛苦！啊啊啊\n药百编辑组里 特么死仨人了\n噢不对是俩人 群里还有着活生生头像\nedw的账号 小猫Mercy的账号\n\n悼念 今日头七\n已给你烧了纸钱 我不想对你\n生前的所作所为不要做评判哦\n\nMercy你特么属于那种吸着父母的钱系度的\n我靠 虽然我不讨厌毒虫\n但自己挣钱系度 https://t.co/Bg8mqPTKoz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022874915012333568",
+        "conversation_id": "2098805914702909751",
+        "created_at": "2026-09-12T16:12:10.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098806885961060724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098806885961060724",
+        "in_reply_to_user_id": "2022874915012333568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18283,
+          "like_count": 35,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098805914702909751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和他父母一起翻的 这谁能绷住 唉 他父母说实话也是可怜人 陪他俩喝了两次酒 聊了很多 mercy是真原生家庭不惨 真餐卷哪能用上17promax 不想讲了 就到这吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2099872242679341107",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 65,
+          "like_count": 916,
+          "listed_count": 10,
+          "media_count": 89,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了｜可以叫我海绵 05 bi 重度睡眠障碍 双向 重焦 回避型",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099815129735213384",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 151,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2089532923263471772",
+    "created_at": "2026-08-18T02:00:45.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089532923263471772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haidar_faruqi/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/haidar_faruqi/status/2089389714134761739",
+          "start": 16,
+          "url": "https://t.co/69F7PSuhVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089532923263471772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089389714134761739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家回关这个沐雨哦～会互fo的 https://t.co/69F7PSuhVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2089389700901732352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8A3OebgAAyZfj.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2089532923263471772",
+        "created_at": "2026-08-18T02:00:45.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089532923263471772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haidar_faruqi/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/haidar_faruqi/status/2089389714134761739",
+              "start": 16,
+              "url": "https://t.co/69F7PSuhVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089532923263471772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089389714134761739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家回关这个沐雨哦～会互fo的 https://t.co/69F7PSuhVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089389700901732352"
+          ]
+        },
+        "author_id": "1156995783192797185",
+        "conversation_id": "2089389714134761739",
+        "created_at": "2026-08-17T16:31:41.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089389714134761739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6fGQb9qWa",
+              "end": 146,
+              "expanded_url": "https://x.com/haidar_faruqi/status/2089389714134761739/photo/1",
+              "media_key": "3_2089389700901732352",
+              "start": 123,
+              "url": "https://t.co/R6fGQb9qWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089389714134761739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089389700901732352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是沐雨，记住这个名字，药圈的创立者之一（？药圈知名传奇人物 本人算半个专业人士，自认为精通药学，精神药理学，精神病学，成瘾医学，以及一些简单的医学基础，我可以提供用药咨询及指导，精神病治疗咨询及指导，有需要请联系我，相信我的专业性，看见就会回 https://t.co/R6fGQb9qWa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2089532923263471772",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 59,
+          "like_count": 831,
+          "listed_count": 8,
+          "media_count": 86,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-01T18:31:05.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 61,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 38,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/dUOaFI0Nkg"
+              }
+            ]
+          }
+        },
+        "id": "1156995783192797185",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2089532323268272192",
+        "name": "沐雨",
+        "pinned_tweet_id": "2089389714134761739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156995783192797185/1786981866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089379499209355264/O-VSHgY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 25,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/dUOaFI0Nkg",
+        "username": "haidar_faruqi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
