@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2109236823381942723",
+    "created_at": "2026-10-11T10:57:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T11:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109236823381942723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109236823381942723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109235822558085264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 永安夜港给大家发福利啦！！！\n🎉福利抽奖｜抽30gpr！（一共 6 罐）\n（两罐为一份）（一罐 5g）\n点赞，评论，关注、转发本帖子即可搏好运，一共 6 盒pr（30g)✨\n📅开奖：明晚，中奖会私信通知（自己需要出邮费）\n祝各位好运！！！\n注： 本次主…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2109235808855302144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUWCyv5aoAAj3FC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109236823381942723",
+        "created_at": "2026-10-11T10:57:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T11:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109236823381942723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109236823381942723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109235822558085264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 永安夜港给大家发福利啦！！！\n🎉福利抽奖｜抽30gpr！（一共 6 罐）\n（两罐为一份）（一罐 5g）\n点赞，评论，关注、转发本帖子即可搏好运，一共 6 盒pr（30g)✨\n📅开奖：明晚，中奖会私信通知（自己需要出邮费）\n祝各位好运！！！\n注： 本次主…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109235808855302144"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109235822558085264",
+        "created_at": "2026-10-11T10:53:02.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T11:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109235822558085264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozDnLIWWId",
+              "end": 178,
+              "expanded_url": "https://x.com/pr80net/status/2109235822558085264/photo/1",
+              "media_key": "3_2109235808855302144",
+              "start": 155,
+              "url": "https://t.co/ozDnLIWWId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109235822558085264",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109235808855302144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "永安夜港给大家发福利啦！！！\n🎉福利抽奖｜抽30gpr！（一共 6 罐）\n（两罐为一份）（一罐 5g）\n点赞，评论，关注、转发本帖子即可搏好运，一共 6 盒pr（30g)✨\n📅开奖：明晚，中奖会私信通知（自己需要出邮费）\n祝各位好运！！！\n注： 本次主题为纪念露露 各位在评论区发悼念词 明晚看谁写得好就抽谁 https://t.co/ozDnLIWWId"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为进步OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2109236823381942723",
+        "name": "进步主义OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1791048135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5865,
+          "following_count": 75,
+          "like_count": 977,
+          "listed_count": 9,
+          "media_count": 92,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky'tg：https://t.co/AJ3SEoIa7U\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              },
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 122,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 99,
+                "url": "https://t.co/AJ3SEoIa7U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 23,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 0,
+                "url": "https://t.co/AJ3SEoIa7U"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2109235822558085264",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2108134486198432233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 590,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/AJ3SEoIa7U",
+        "username": "pr80net",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

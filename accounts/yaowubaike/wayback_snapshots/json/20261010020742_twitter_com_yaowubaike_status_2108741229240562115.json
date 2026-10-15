@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2107649140222296348",
+    "created_at": "2026-10-10T02:07:42.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T03:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108741229240562115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108741229240562115",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107649140222296348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 一路走好 我的爱人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2107649100552482816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT_fsK2aMAAjGq9.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2107649140222296348",
+        "created_at": "2026-10-10T02:07:42.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T03:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108741229240562115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108741229240562115",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107649140222296348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 一路走好 我的爱人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107649100552482816"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107649140222296348",
+        "created_at": "2026-10-07T01:48:07.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T02:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107649140222296348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Qn0txEKMw",
+              "end": 87,
+              "expanded_url": "https://x.com/ErQiu8013/status/2107649140222296348/photo/1",
+              "media_key": "3_2107649100552482816",
+              "start": 64,
+              "url": "https://t.co/0Qn0txEKMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107649140222296348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107649100552482816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1198,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思考了一段时间，还是想着发出来吧。\n\n仅此怀念一位逝去的朋友。\n这是她一面之缘赠与秋儿的礼物\n\n愿你在安港无忧无虑，自由自在。 https://t.co/0Qn0txEKMw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为进步OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2108741229240562115",
+        "name": "进步主义OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1791048135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 74,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "秋儿｜降临派\n低能量 + 薬changing + 二次元 + 音游\nLGBTQ+友好，以及精品神病的过去\n欢迎互fo～遗漏私信回fo，\nip香港\n梦想成为地雷系\n高强度转低强度发推  \n下面匿名提问箱喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu8013",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu8013",
+                "start": 0,
+                "url": "https://t.co/bhxSdtg2kE"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "is_identity_verified": false,
+        "location": "night city",
+        "most_recent_tweet_id": "2108553794959389113",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2074415591658783121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735700650472955904/1772951055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1715,
+          "like_count": 26338,
+          "listed_count": 4,
+          "media_count": 760,
+          "tweet_count": 5709
+        },
+        "url": "https://t.co/bhxSdtg2kE",
+        "username": "ErQiu8013",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

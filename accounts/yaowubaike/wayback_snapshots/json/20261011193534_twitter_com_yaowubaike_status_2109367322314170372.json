@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2109367322314170372",
+    "created_at": "2026-10-11T19:35:34.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T20:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109367322314170372"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2109367322314170372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷偷说一句\n我还打了好几毫升的普瑞溶液\n好几针"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2109367322314170372",
+        "created_at": "2026-10-11T19:35:34.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T20:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109367322314170372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109367322314170372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷说一句\n我还打了好几毫升的普瑞溶液\n好几针"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为进步OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2109367322314170372",
+        "name": "进步主义OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1791048135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5878,
+          "following_count": 76,
+          "like_count": 983,
+          "listed_count": 9,
+          "media_count": 96,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

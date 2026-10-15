@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2104641912431075369",
+    "created_at": "2026-09-29T00:01:52.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T01:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104723296336105707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104723296336105707",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104641912431075369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 不一样的…不一样的……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104641912431075369].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104641912431075369",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104641912431075369"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2104641912431075369",
+        "created_at": "2026-09-29T00:01:52.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T01:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104723296336105707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104723296336105707",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104641912431075369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 不一样的…不一样的……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为减害OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2104723296336105707",
+        "name": "减害派OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1790609956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 70,
+          "like_count": 956,
+          "listed_count": 9,
+          "media_count": 90,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "右蓝染 可以叫我染",
+        "id": "1700948552078467072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2075291257191231954",
+        "name": "☨ Dextr' Blu' Dyein' ☨",
+        "pinned_tweet_id": "2068396126202667216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700948552078467072/1781978761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068394962576973824/yLemHV3a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4558,
+          "following_count": 74,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 765,
+          "tweet_count": 7435
+        },
+        "url": "",
+        "username": "Overdose_DBD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2106414206279205290",
+    "created_at": "2026-10-03T16:00:56.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106414206279205290"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106414206279205290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "秦浩然：“有钱就多打点，打三天掉一次”你挽尊什么呢？你网站我可是1s就干爆了，而且打你网站可不需要什么钱，可怜的秦浩然只能眼巴巴的看着别人干爆他网站自己却无能为力，只能缩在山东省济南市仲宫镇龙山路跃突泉酒厂家属楼3楼4单元303室，秦增光更是怂的连电话都不敢接了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2106414206279205290",
+        "created_at": "2026-10-03T16:00:56.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106414206279205290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106414206279205290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "秦浩然：“有钱就多打点，打三天掉一次”你挽尊什么呢？你网站我可是1s就干爆了，而且打你网站可不需要什么钱，可怜的秦浩然只能眼巴巴的看着别人干爆他网站自己却无能为力，只能缩在山东省济南市仲宫镇龙山路跃突泉酒厂家属楼3楼4单元303室，秦增光更是怂的连电话都不敢接了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为减害OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2106414206279205290",
+        "name": "减害派OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1790609956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5859,
+          "following_count": 73,
+          "like_count": 960,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

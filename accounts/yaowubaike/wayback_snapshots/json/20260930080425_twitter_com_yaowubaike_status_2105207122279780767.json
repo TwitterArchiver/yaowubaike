@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105207114377699328"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "conversation_id": "2105207122279780767",
+    "created_at": "2026-09-30T08:04:25.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T09:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105207122279780767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uw3UJFKzZ1",
+          "end": 74,
+          "expanded_url": "https://x.com/yaowubaike/status/2105207122279780767/photo/1",
+          "media_key": "3_2105207114377699328",
+          "start": 51,
+          "url": "https://t.co/Uw3UJFKzZ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105207122279780767",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105207114377699328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本党信条\n\n死亡本可以避免 伤害应当被看见\n我们不追求消除所有风险\n我们追求不让本可以活下来的人死去 https://t.co/Uw3UJFKzZ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2105207114377699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcyt3cboAA_dmX.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105207114377699328"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2105207122279780767",
+        "created_at": "2026-09-30T08:04:25.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105207122279780767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uw3UJFKzZ1",
+              "end": 74,
+              "expanded_url": "https://x.com/yaowubaike/status/2105207122279780767/photo/1",
+              "media_key": "3_2105207114377699328",
+              "start": 51,
+              "url": "https://t.co/Uw3UJFKzZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105207122279780767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105207114377699328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本党信条\n\n死亡本可以避免 伤害应当被看见\n我们不追求消除所有风险\n我们追求不让本可以活下来的人死去 https://t.co/Uw3UJFKzZ1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为减害OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2105207122279780767",
+        "name": "减害派OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1790609956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 73,
+          "like_count": 957,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

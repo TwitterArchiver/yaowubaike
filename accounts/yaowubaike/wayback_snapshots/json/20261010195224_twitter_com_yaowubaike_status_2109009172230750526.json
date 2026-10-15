@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962425480612851712",
+    "conversation_id": "2109009172230750526",
+    "created_at": "2026-10-10T19:52:24.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T20:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109009172230750526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 121,
+          "id": "1720665183188922368",
+          "start": 116,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ValenceLab/sta…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/ValenceLab/status/2108578778993803559",
+          "start": 122,
+          "url": "https://t.co/veo5YFqOlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109009172230750526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108578778993803559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请分析这个账号近期的帖子和回复以及 profile, 并尝试描述以下内容\n性别:\n实际年龄:\n心理年龄:\n兴趣爱好:\n性格:\n优点:\n缺点:\n智商 (可估算, 请给出各群指数) :\n描述我的合适形容词:\n疯癫度 (1~100) :\n@grok https://t.co/veo5YFqOlI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2109009172230750526",
+        "created_at": "2026-10-10T19:52:24.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T20:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109009172230750526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1720665183188922368",
+              "start": 116,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ValenceLab/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/ValenceLab/status/2108578778993803559",
+              "start": 122,
+              "url": "https://t.co/veo5YFqOlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109009172230750526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108578778993803559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请分析这个账号近期的帖子和回复以及 profile, 并尝试描述以下内容\n性别:\n实际年龄:\n心理年龄:\n兴趣爱好:\n性格:\n优点:\n缺点:\n智商 (可估算, 请给出各群指数) :\n描述我的合适形容词:\n疯癫度 (1~100) :\n@grok https://t.co/veo5YFqOlI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754774517594181632",
+        "conversation_id": "2108578778993803559",
+        "created_at": "2026-10-09T15:22:11.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T16:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108578778993803559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1720665183188922368",
+              "start": 116,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Kanaiilq/statu…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/Kanaiilq/status/2108568431041929697",
+              "start": 122,
+              "url": "https://t.co/dMizL3IqKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108578778993803559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1530,
+          "like_count": 3,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108568431041929697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请分析这个账号近期的帖子和回复以及 profile, 并尝试描述以下内容\n性别:\n实际年龄:\n心理年龄:\n兴趣爱好:\n性格:\n优点:\n缺点:\n智商 (可估算, 请给出各群指数) :\n描述我的合适形容词:\n疯癫度 (1~100) :\n@grok https://t.co/dMizL3IqKJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为进步OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2109009172230750526",
+        "name": "进步主义OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1791048135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5864,
+          "following_count": 75,
+          "like_count": 972,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥官方论坛 https://t.co/I7gx0T63Cd∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "valence.top",
+                "end": 39,
+                "expanded_url": "http://valence.top",
+                "start": 16,
+                "url": "https://t.co/I7gx0T63Cd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Sph…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Sphere",
+                "start": 0,
+                "url": "https://t.co/e7TrTwWJEE"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "is_identity_verified": false,
+        "location": "本栖湖",
+        "most_recent_tweet_id": "2108578778993803559",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2104243877247078561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754774517594181632/1773760887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 264,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/e7TrTwWJEE",
+        "username": "ValenceLab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2108973816865067008/eES3dbLy_bigger.jpg",
+          "description": "SpaceX Super Intelligence",
+          "url": "https://twitter.com/SpaceXSI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109009187229311082",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9154470,
+          "following_count": 4,
+          "like_count": 145,
+          "listed_count": 7782,
+          "media_count": 3998709,
+          "tweet_count": 140140096
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

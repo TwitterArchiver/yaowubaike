@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104716221056983040"
+      ]
+    },
+    "author_id": "1962425480612851712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104716215621201993",
+    "created_at": "2026-09-28T23:33:47.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T00:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104716229206552587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1e0BPsl1vs",
+          "end": 23,
+          "expanded_url": "https://x.com/yaowubaike/status/2104716229206552587/photo/1",
+          "media_key": "3_2104716221056983040",
+          "start": 0,
+          "url": "https://t.co/1e0BPsl1vs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104716229206552587",
+    "in_reply_to_user_id": "1962425480612851712",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104716221056983040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104716215621201993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/1e0BPsl1vs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2104716221056983040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTV0QHUaoAAbp3I.jpg",
+        "width": 3616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104716221056983040"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104716215621201993",
+        "created_at": "2026-09-28T23:33:47.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T00:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104716229206552587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1e0BPsl1vs",
+              "end": 23,
+              "expanded_url": "https://x.com/yaowubaike/status/2104716229206552587/photo/1",
+              "media_key": "3_2104716221056983040",
+              "start": 0,
+              "url": "https://t.co/1e0BPsl1vs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104716229206552587",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104716221056983040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104716215621201993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/1e0BPsl1vs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2104716215621201993",
+        "created_at": "2026-09-28T23:33:44.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T00:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104716215621201993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104716215621201993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 这里是减害派OD党\n核心纲领为减害OD主义\n前身：药物百科\n如今党领袖由沐雨任第一任\n欢迎大家加入和讨论\n注：我们组织同时很关心强制机构（如戒网瘾学校等）的事情\n我们同时也是正在运行的反强制机构与ooer群体的人权组织"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "前身：药物百科 我党核心纲领为减害OD主义\n前wiki主：沐雨 玄鸮 凌雪 \n现党领袖：沐雨\n同时收集各类强制机构（如戒网瘾学校等）信息\n欢迎私信我 同时接受老活 免费药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "每个oder的心里",
+        "most_recent_tweet_id": "2104716229206552587",
+        "name": "减害派OD党",
+        "pinned_tweet_id": "2100444023710441918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1790609956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104594646190235648/rr0O1dML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 70,
+          "like_count": 952,
+          "listed_count": 9,
+          "media_count": 90,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
